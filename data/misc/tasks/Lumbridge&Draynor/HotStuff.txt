@@ -1,0 +1,7 @@
+Hot Stuff! - Lumb&Dray - Easy - 2 - 995, 1900
+
+Light any logs on fire using a tinderbox.
+
+<col=ffff00>A tinderbox and some logs will be required for this task.<br><col=ffff00>You can obtain logs by chopping down a tree and obtain the<br><col=ffff00> tinderbox from the shopkeeper in Lumbridge.
+
+1,900 coins, 500 Woodcutting experience, 1,500 Firemaking experience

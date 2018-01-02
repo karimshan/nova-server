@@ -1,0 +1,6 @@
+[Wed Sep 27 21:17:05 CDT 2017, 192.168.1.211] flucifer used the command: "home" (Console: false, Client Command: false) - EXT: [home]
+[Wed Sep 27 21:17:10 CDT 2017, 192.168.1.211] flucifer used the command: "finishstarter" (Console: false, Client Command: false) - EXT: [finishstarter]
+[Wed Sep 27 21:17:13 CDT 2017, 192.168.1.211] flucifer used the command: "finishtut" (Console: false, Client Command: false) - EXT: [finishtut]
+[Wed Sep 27 21:17:49 CDT 2017, 192.168.1.211] flucifer used the command: "teleto" (Console: false, Client Command: false) - EXT: [lucifer]
+[Wed Sep 27 21:19:04 CDT 2017, 192.168.1.211] flucifer used the command: "item" (Console: false, Client Command: false) - EXT: [22746]
+[Wed Sep 27 21:19:16 CDT 2017, 192.168.1.211] flucifer used the command: "item" (Console: false, Client Command: false) - EXT: [22747]

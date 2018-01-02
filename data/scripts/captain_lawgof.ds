@@ -1,0 +1,10 @@
+NPC=208
+npc : Hello mate, my name is Captain Lawgof. - I am going to be your ship master today.
+player : Well where is Captain Jack Sparrow?
+npc : Jack Sparrow? Why, he's probably back - on the Black Pearl right about now.
+player : Well I want to meet him!
+npc : You'll have to go to Port Royal and ask - William about it, but for now we have to get moving. - Are you coming or not?
+player : Of course I'm coming!
+npc : Good. Meet me back here in 15 minutes - and then we can leave.
+npc : Remember to be careful.
+player : Thank you Lawgof.

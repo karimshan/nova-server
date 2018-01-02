@@ -1,0 +1,4 @@
+[Tue Sep 19 01:06:01 CDT 2017, 184.4.56.116] tattoodles dropped an item: [773, 'perfect' ring - x1] at location: [5509, 4449, 0]
+[Tue Sep 19 01:29:04 CDT 2017, 184.4.56.116] tattoodles dropped an item: [22450, Merlyn's ring - x1] at location: [5507, 4450, 0]
+[Tue Sep 19 19:43:58 CDT 2017, 184.4.56.116] tattoodles dropped an item: [1153, Iron full helm - x1] at location: [3177, 3484, 0]
+[Tue Sep 19 20:11:17 CDT 2017, 184.4.56.116] tattoodles dropped an item: [22456, Blank - x1] at location: [3180, 3483, 0]

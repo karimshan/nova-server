@@ -1,0 +1,62 @@
+[Sat Jan 21 04:52:17 CST 2017]: Started up the Cache Editor.
+[Sat Jan 21 04:56:39 CST 2017]: Started up the Cache Editor.
+[Sat Jan 21 06:27:17 CST 2017]: Started up the Cache Editor.
+[Sat Jan 21 06:28:20 CST 2017]: Saved NPC: 14688 - Cosmic Entity
+[Sat Jan 21 06:50:10 CST 2017]: Started up the Cache Editor.
+[Sat Jan 21 06:50:27 CST 2017]: Saved NPC: 14688 - Cosmic Entity
+[Sat Jan 21 06:51:38 CST 2017]: Name: White tri-abyssal whip, Item ID: 22674, Inventory Model ID: 65528, Worn Model Id: 65981, Price: 1,200,000,000, Inventory Options: null;Wield;null;null;drop;, 
+[Sat Jan 21 06:51:43 CST 2017]: Name: White tri-abyssal whip, Item ID: 22674, Inventory Model ID: 65528, Worn Model Id: 65981, Price: 1,200,000,000, Inventory Options: null;Wield;null;null;drop;, 
+[Sat Jan 21 06:52:04 CST 2017]: Name: Yellow tri-abyssal whip, Item ID: 22675, Inventory Model ID: 65528, Worn Model Id: 65984, Price: 1,200,000,000, Inventory Options: null;Wield;Charge;null;drop;, 
+[Sat Jan 21 06:53:31 CST 2017]: Started up the Cache Editor.
+[Sat Jan 21 06:53:52 CST 2017]: Name: Razor Abyssal Whip, Item ID: 22715, Inventory Model ID: 66068, Worn Model Id: 66069, Price: 800,000,000, Inventory Options: null;Wield;Upgrade;null;drop;, 
+[Sat Jan 21 06:54:42 CST 2017]: Name: Yellow tri-abyssal whip, Item ID: 22675, Inventory Model ID: 65528, Worn Model Id: 65984, Price: 1,200,000,000, Inventory Options: null;Wield;Charge;null;drop;, 
+[Sat Jan 21 06:54:51 CST 2017]: Name: Red tri-abyssal whip, Item ID: 22676, Inventory Model ID: 65986, Worn Model Id: 65987, Price: 1,200,000,000, Inventory Options: null;Wield;Charge;null;drop;, 
+[Sat Jan 21 06:54:57 CST 2017]: Name: Green tri-abyssal whip, Item ID: 22677, Inventory Model ID: 65989, Worn Model Id: 65990, Price: 1,200,000,000, Inventory Options: null;Wield;Charge;null;drop;, 
+[Sat Jan 21 06:55:04 CST 2017]: Name: Blue tri-abyssal whip, Item ID: 22678, Inventory Model ID: 65992, Worn Model Id: 65993, Price: 1,200,000,000, Inventory Options: null;Wield;Charge;null;drop;, 
+[Sat Jan 21 06:55:11 CST 2017]: Removed Item: 22679 - monster helm wear
+[Sat Jan 21 06:55:16 CST 2017]: Removed Item: 22680 - monster helm drop
+[Sat Jan 21 06:55:21 CST 2017]: Model Packing revealed 3 nulled models in your cache.
+[Sat Jan 21 06:55:21 CST 2017]: The nulled models are: [66129, 66130, 66131]
+[Sat Jan 21 06:55:26 CST 2017]: Saved model: 65999 ("65999 - Inv ID") from the cache: data/cache//
+[Sat Jan 21 06:55:29 CST 2017]: Deleted model after making backup: "65999" from item: [22681 - monster whip wear]
+[Sat Jan 21 06:55:29 CST 2017]: Saved model: 66000 ("66000 - M1 ID") from the cache: data/cache//
+[Sat Jan 21 06:55:33 CST 2017]: Deleted model after making backup: "66000" from item: [22681 - monster whip wear]
+[Sat Jan 21 06:55:33 CST 2017]: Removed Item: 22681 - monster whip wear
+[Sat Jan 21 06:55:36 CST 2017]: Saved model: 66001 ("66001 - Inv ID") from the cache: data/cache//
+[Sat Jan 21 06:55:39 CST 2017]: Deleted model after making backup: "66001" from item: [22682 - monster whip drop]
+[Sat Jan 21 06:55:39 CST 2017]: Saved model: 66002 ("66002 - M1 ID") from the cache: data/cache//
+[Sat Jan 21 06:55:43 CST 2017]: Deleted model after making backup: "66002" from item: [22682 - monster whip drop]
+[Sat Jan 21 06:55:43 CST 2017]: Removed Item: 22682 - monster whip drop
+[Sat Jan 21 06:55:45 CST 2017]: Removed Item: 22683 - monster plate wear
+[Sat Jan 21 06:55:48 CST 2017]: Saved model: 66005 ("66005 - Inv ID") from the cache: data/cache//
+[Sat Jan 21 06:55:52 CST 2017]: Deleted model after making backup: "66005" from item: [22684 - monster plate drop]
+[Sat Jan 21 06:55:52 CST 2017]: Saved model: 66006 ("66006 - M1 ID") from the cache: data/cache//
+[Sat Jan 21 06:55:55 CST 2017]: Deleted model after making backup: "66006" from item: [22684 - monster plate drop]
+[Sat Jan 21 06:55:55 CST 2017]: Removed Item: 22684 - monster plate drop
+[Sat Jan 21 06:55:58 CST 2017]: Saved model: 66007 ("66007 - Inv ID") from the cache: data/cache//
+[Sat Jan 21 06:56:02 CST 2017]: Deleted model after making backup: "66007" from item: [22685 - monster legs wear]
+[Sat Jan 21 06:56:02 CST 2017]: Saved model: 66008 ("66008 - M1 ID") from the cache: data/cache//
+[Sat Jan 21 06:56:05 CST 2017]: Deleted model after making backup: "66008" from item: [22685 - monster legs wear]
+[Sat Jan 21 06:56:05 CST 2017]: Removed Item: 22685 - monster legs wear
+[Sat Jan 21 06:56:07 CST 2017]: Saved model: 66009 ("66009 - Inv ID") from the cache: data/cache//
+[Sat Jan 21 06:56:11 CST 2017]: Deleted model after making backup: "66009" from item: [22686 - monster legs wear real]
+[Sat Jan 21 06:56:11 CST 2017]: Saved model: 66010 ("66010 - M1 ID") from the cache: data/cache//
+[Sat Jan 21 06:56:14 CST 2017]: Deleted model after making backup: "66010" from item: [22686 - monster legs wear real]
+[Sat Jan 21 06:56:14 CST 2017]: Removed Item: 22686 - monster legs wear real
+[Sat Jan 21 06:56:24 CST 2017]: Name: Blue tri-abyssal whip, Item ID: 22678, Inventory Model ID: 65528, Worn Model Id: 65993, Price: 1,200,000,000, Inventory Options: null;Wield;Charge;null;drop;, 
+[Sat Jan 21 06:56:33 CST 2017]: Name: Green tri-abyssal whip, Item ID: 22677, Inventory Model ID: 65528, Worn Model Id: 65990, Price: 1,200,000,000, Inventory Options: null;Wield;Charge;null;drop;, 
+[Sat Jan 21 06:56:42 CST 2017]: Name: Red tri-abyssal whip, Item ID: 22676, Inventory Model ID: 65528, Worn Model Id: 65987, Price: 1,200,000,000, Inventory Options: null;Wield;Charge;null;drop;, 
+[Sat Jan 21 06:56:54 CST 2017]: Started up the Cache Editor.
+[Sat Jan 21 06:57:51 CST 2017]: Name: Yellow tri-abyssal whip, Item ID: 22675, Inventory Model ID: 65528, Worn Model Id: 65984, Price: 1,200,000,000, Inventory Options: null;Wield;Charge;null;drop;, 
+[Sat Jan 21 06:58:04 CST 2017]: Name: Red tri-abyssal whip, Item ID: 22676, Inventory Model ID: 65528, Worn Model Id: 65987, Price: 1,200,000,000, Inventory Options: null;Wield;Charge;null;drop;, 
+[Sat Jan 21 06:58:10 CST 2017]: Name: Green tri-abyssal whip, Item ID: 22677, Inventory Model ID: 65528, Worn Model Id: 65990, Price: 1,200,000,000, Inventory Options: null;Wield;Charge;null;drop;, 
+[Sat Jan 21 06:58:16 CST 2017]: Name: Blue tri-abyssal whip, Item ID: 22678, Inventory Model ID: 65528, Worn Model Id: 65993, Price: 1,200,000,000, Inventory Options: null;Wield;Charge;null;drop;, 
+[Sat Jan 21 07:01:51 CST 2017]: Saved model: 65528 ("65528 - Inv ID") from the cache: data/cache//
+[Sat Jan 21 07:01:51 CST 2017]: Saved model: 65981 ("65981 - M1 ID") from the cache: data/cache//
+[Sat Jan 21 07:01:51 CST 2017]: Saved model: 65982 ("65982 - M2 ID") from the cache: data/cache//
+[Sat Jan 21 07:01:51 CST 2017]: Saved model: 65981 ("65981 - F1 ID") from the cache: data/cache//
+[Sat Jan 21 07:01:51 CST 2017]: Saved model: 65982 ("65982 - F2 ID") from the cache: data/cache//
+[Sat Jan 21 07:03:08 CST 2017]: Name: Yellow tri-abyssal whip, Item ID: 22675, Inventory Model ID: 65528, Worn Model Id: 65984, Price: 1,200,000,000, Inventory Options: null;Wield;Charge;null;drop;, 
+[Sat Jan 21 07:03:15 CST 2017]: Name: Red tri-abyssal whip, Item ID: 22676, Inventory Model ID: 65528, Worn Model Id: 65987, Price: 1,200,000,000, Inventory Options: null;Wield;Charge;null;drop;, 
+[Sat Jan 21 07:03:24 CST 2017]: Name: Green tri-abyssal whip, Item ID: 22677, Inventory Model ID: 65528, Worn Model Id: 65990, Price: 1,200,000,000, Inventory Options: null;Wield;Charge;null;drop;, 
+[Sat Jan 21 07:03:33 CST 2017]: Name: Blue tri-abyssal whip, Item ID: 22678, Inventory Model ID: 65528, Worn Model Id: 65993, Price: 1,200,000,000, Inventory Options: null;Wield;Charge;null;drop;, 

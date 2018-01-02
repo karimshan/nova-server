@@ -1,0 +1,4 @@
+[Tue Sep 19 01:10:30 CDT 2017, 192.168.1.1] toxic used the command: "tasks" (Console: false, Client Command: false) - EXT: [tasks]
+[Tue Sep 19 01:10:34 CDT 2017, 192.168.1.1] toxic used the command: "showtasks" (Console: false, Client Command: false) - EXT: [showtasks]
+[Tue Sep 19 01:10:36 CDT 2017, 192.168.1.1] toxic used the command: "tasklit" (Console: false, Client Command: false) - EXT: [tasklit]
+[Tue Sep 19 01:10:39 CDT 2017, 192.168.1.1] toxic used the command: "tasklist" (Console: false, Client Command: false) - EXT: [tasklist]

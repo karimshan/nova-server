@@ -1,0 +1,11 @@
+[Tue Oct 10 23:40:13 CDT 2017]: Started up the Cache Editor.
+[Tue Oct 10 23:41:08 CDT 2017]: Cloned Item: 22758 - New Name: Saxon ringlet - (From: 21872)
+[Tue Oct 10 23:41:28 CDT 2017]: Name: What Mikey Never Uses, Item ID: 22758, Inventory Model ID: 4098, Worn Model Id: 5004, Price: 99,999, Inventory Options: null;null;null;null;drop;, 
+[Tue Oct 10 23:41:31 CDT 2017]: Name: What Mikey Never Uses, Item ID: 22758, Inventory Model ID: 4098, Worn Model Id: 5004, Price: 999,999, Inventory Options: null;null;null;null;drop;, 
+[Tue Oct 10 23:41:42 CDT 2017]: Name: What Mikey Never Uses, Item ID: 22758, Inventory Model ID: 4098, Worn Model Id: 5004, Price: 999,999, Inventory Options: null;Wear;null;null;drop;, 
+[Tue Oct 10 23:44:17 CDT 2017]: Started up the Cache Editor.
+[Tue Oct 10 23:44:38 CDT 2017]: Name: What Mikey Never Uses, Item ID: 22758, Inventory Model ID: 4098, Worn Model Id: 5004, Price: 999,999, Inventory Options: null;Wear;null;null;drop;, 
+[Tue Oct 10 23:46:37 CDT 2017]: Started up the Cache Editor.
+[Tue Oct 10 23:46:48 CDT 2017]: Name: Condom ring, Item ID: 22758, Inventory Model ID: 4098, Worn Model Id: 5004, Price: 999,999, Inventory Options: null;Wear;null;null;drop;, 
+[Tue Oct 10 23:54:27 CDT 2017]: Started up the Cache Editor.
+[Tue Oct 10 23:54:51 CDT 2017]: Name: Condom ring, Item ID: 22758, Inventory Model ID: 4098, Worn Model Id: 5004, Price: 999,999, Inventory Options: null;Wear;null;null;drop;, 

@@ -1,0 +1,7 @@
+Lumberjack - Lumb&Dray - Easy - 1 - 995, 1000, 1349, 1
+
+Chop down a normal tree in Lumbridge or Draynor
+
+<col=ffff00>A hatchet will be required to complete this task. You can get one<br><col=ffff00>from Wilfred in Lumbridge.
+
+1,000 coins, 1,000 Woodcutting experience, a Iron Hatchet

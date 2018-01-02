@@ -1,0 +1,13 @@
+# Format: (Name of Build Object or ID - name of house objects.. (continued))
+Chair space - Crude wooden chair, Wooden chair, Rocking chair, Oak chair, Oak armchair, Teak armchair, Mahogany armchair
+Rug space - Brown rug, Rug, Opulent rug
+Fireplace space - Clay fireplace, Stone fireplace, Marble fireplace
+Clock space - Oak clock, Teak clock, Gilded clock
+Bed space - Wooden bed, Oak bed, Large oak bed, Teak bed, Large teak bed, 4-poster, Gilded 4-poster
+Dresser space - Shaving stand, Oak shaving stand, Oak dresser, Teak dresser, Fancy teak dresser, Mahogany dresser, Gilded dresser
+Bookcase space - Wooden bookcase, Oak bookcase, Mahogany bookcase
+Habitat space - Garden habitat, Jungle habitat, Desert habitat, Polar habitat, Volcanic habitat
+Pet house space - Oak pet house, Teak pet house, Mahogany pet house, Consecrated pet house, Desecrated pet house, Natural pet house
+Pet feeder space - Oak pet feeder, Teak pet feeder, Mahogany pet feeder
+Obelisk space - Mini obelisk
+Combat ring space - Fencing ring, Boxing ring, Combat ring

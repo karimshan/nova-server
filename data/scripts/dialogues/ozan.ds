@@ -1,0 +1,25 @@
+// It's ozan LOL he trolls the player
+ID = 7820
+	player: hey, what is your name?
+	npc: my name is *npcName*. it is nice to meet you.
+	player: nice to meet you too, my name is *playerName*.
+	npc: Well, *playerName*, are you familiar with how this world works?
+	player: I am not. Could you please enlighten me?
+	npc: Nope
+	->goto:options("questions")
+	->options("questions"): Ask *npcName* a question - Why are you doing this? - What is this place? - I need help. {
+		>option1 {
+			npc: Because you are not thinking clearly.
+			~end
+		}
+		>option2 {
+			npc: This is Nova RSPS.
+			~end
+		}
+		>option3 {
+			npc: If you need help, continue and talk to me again.
+			~end
+			->goto:dialogue("LocationCrystal")
+		}
+	} ~end:options("questions")
+~end

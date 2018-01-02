@@ -1,0 +1,59 @@
+[Tue Sep 26 03:01:15 CDT 2017]: Started up the Cache Editor.
+[Tue Sep 26 03:04:19 CDT 2017]: Cloned Item: 22745 - New Name: Yellow partyhat - (From: 1040)
+[Tue Sep 26 03:05:07 CDT 2017]: Name: Black partyhat, Item ID: 22745, Inventory Model ID: 2635, Worn Model Id: 187, Price: 2,147,483,647, Inventory Options: null;Wear;null;null;drop;, 
+[Tue Sep 26 03:05:20 CDT 2017]: Cloned Item: 22746 - New Name: Yellow partyhat - (From: 1041)
+[Tue Sep 26 03:05:37 CDT 2017]: Name: Black partyhat, Item ID: 22746, Inventory Model ID: 0, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Tue Sep 26 03:06:52 CDT 2017]: Removed Item: 22746 - Black partyhat
+[Tue Sep 26 03:07:44 CDT 2017]: Model Packing revealed 15 nulled models in your cache.
+[Tue Sep 26 03:07:44 CDT 2017]: The nulled models are: [65999, 66000, 66001, 66002, 66005, 66006, 66007, 66008, 66009, 66010, 66013, 66014, 66129, 66130, 66131]
+[Tue Sep 26 03:08:03 CDT 2017]: Started up the Cache Editor.
+[Tue Sep 26 03:08:22 CDT 2017]: Model Packing revealed 15 nulled models in your cache.
+[Tue Sep 26 03:08:22 CDT 2017]: The nulled models are: [65999, 66000, 66001, 66002, 66005, 66006, 66007, 66008, 66009, 66010, 66013, 66014, 66129, 66130, 66131]
+[Tue Sep 26 03:09:02 CDT 2017]: Name: Pet Nex, Item ID: 22746, Inventory Model ID: 62717, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Tue Sep 26 03:11:24 CDT 2017]: Name: Pet Nex, Item ID: 22746, Inventory Model ID: 62717, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Tue Sep 26 03:11:53 CDT 2017]: Name: Pet Nex, Item ID: 22746, Inventory Model ID: 62717, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Tue Sep 26 03:12:17 CDT 2017]: Name: Pet Nex, Item ID: 22746, Inventory Model ID: 62717, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Tue Sep 26 03:12:44 CDT 2017]: Name: Nexy, Item ID: 22746, Inventory Model ID: 62717, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Tue Sep 26 03:12:47 CDT 2017]: Name: Nexy, Item ID: 22746, Inventory Model ID: 62717, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Tue Sep 26 03:13:13 CDT 2017]: Name: Nexy, Item ID: 22746, Inventory Model ID: 62717, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Tue Sep 26 03:13:38 CDT 2017]: Name: Nexy, Item ID: 22746, Inventory Model ID: 62717, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Tue Sep 26 03:16:28 CDT 2017]: Cloned Item: 22747 - New Name: Nexy - (From: 22746)
+[Tue Sep 26 03:17:15 CDT 2017]: Name: Prince Black Dragon, Item ID: 22747, Inventory Model ID: 17414, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Tue Sep 26 03:18:27 CDT 2017]: Name: Prince Black Dragon, Item ID: 22747, Inventory Model ID: 17414, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Tue Sep 26 03:19:58 CDT 2017]: Name: Prince Black Dragon, Item ID: 22747, Inventory Model ID: 17414, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Tue Sep 26 03:20:36 CDT 2017]: Name: Prince Black Dragon, Item ID: 22747, Inventory Model ID: 17414, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Tue Sep 26 03:21:01 CDT 2017]: Name: Prince Black Dragon, Item ID: 22747, Inventory Model ID: 17414, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Tue Sep 26 03:21:48 CDT 2017]: Name: Prince Black Dragon, Item ID: 22747, Inventory Model ID: 17414, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Tue Sep 26 03:22:46 CDT 2017]: Name: Prince Black Dragon, Item ID: 22747, Inventory Model ID: 17414, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Tue Sep 26 03:25:09 CDT 2017]: Name: Prince Black Dragon, Item ID: 22747, Inventory Model ID: 12164, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Tue Sep 26 03:25:44 CDT 2017]: Name: Prince Black Dragon, Item ID: 22747, Inventory Model ID: 12164, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Tue Sep 26 03:26:57 CDT 2017]: Name: Prince Black Dragon, Item ID: 22747, Inventory Model ID: 12164, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Tue Sep 26 03:27:35 CDT 2017]: Removed Item: 22747 - Prince Black Dragon
+[Tue Sep 26 03:27:43 CDT 2017]: Cloned Item: 22747 - New Name: Kbd heads - (From: 7980)
+[Tue Sep 26 03:27:57 CDT 2017]: Name: Prince Black Dragon, Item ID: 22747, Inventory Model ID: 12347, Worn Model Id: -1, Price: 50,000, Inventory Options: null;null;null;null;drop;, 
+[Tue Sep 26 03:31:10 CDT 2017]: Cloned Item: 22748 - New Name: Nexy - (From: 22746)
+[Tue Sep 26 03:31:44 CDT 2017]: Name: General Awwdor, Item ID: 22748, Inventory Model ID: 27785, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Tue Sep 26 03:32:17 CDT 2017]: Name: General Awwdor, Item ID: 22748, Inventory Model ID: 27785, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Tue Sep 26 03:32:40 CDT 2017]: Name: General Awwdor, Item ID: 22748, Inventory Model ID: 27785, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Tue Sep 26 03:33:05 CDT 2017]: Name: General Awwdor, Item ID: 22748, Inventory Model ID: 27785, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Tue Sep 26 03:33:25 CDT 2017]: Name: General Awwdor, Item ID: 22748, Inventory Model ID: 27785, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Tue Sep 26 03:33:51 CDT 2017]: Name: General Awwdor, Item ID: 22748, Inventory Model ID: 27785, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Tue Sep 26 03:38:04 CDT 2017]: Started up the Cache Editor.
+[Tue Sep 26 03:38:21 CDT 2017]: Cloned NPC: 14691 - Nex
+[Tue Sep 26 03:39:02 CDT 2017]: Saved NPC: 14691 - Nexy
+[Tue Sep 26 03:44:44 CDT 2017]: Started up the Cache Editor.
+[Tue Sep 26 03:45:28 CDT 2017]: Cloned NPC: 14692 - Corporeal Beast
+[Tue Sep 26 03:45:58 CDT 2017]: Saved NPC: 14692 - Corporeal Puppy
+[Tue Sep 26 03:46:19 CDT 2017]: Cloned Item: 22749 - New Name: General Awwdor - (From: 22748)
+[Tue Sep 26 03:46:42 CDT 2017]: Name: Corporeal Puppy, Item ID: 22749, Inventory Model ID: 40955, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Tue Sep 26 03:47:53 CDT 2017]: Name: Corporeal Puppy, Item ID: 22749, Inventory Model ID: 40955, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Tue Sep 26 03:48:53 CDT 2017]: Saved NPC: 14692 - Corporeal Puppy
+[Tue Sep 26 03:49:00 CDT 2017]: Saved NPC: 14692 - Corporeal Puppy
+[Tue Sep 26 03:49:54 CDT 2017]: Started up the Cache Editor.
+[Tue Sep 26 03:50:34 CDT 2017]: Name: Corporeal Puppy, Item ID: 22749, Inventory Model ID: 40955, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Tue Sep 26 03:53:21 CDT 2017]: Cloned NPC: 14693 - King Black Dragon
+[Tue Sep 26 03:53:50 CDT 2017]: Saved NPC: 14693 - Prince Black Dragon
+[Tue Sep 26 03:54:29 CDT 2017]: Cloned NPC: 14694 - General Graardor
+[Tue Sep 26 03:55:00 CDT 2017]: Saved NPC: 14694 - General Awwdor
+[Tue Sep 26 03:55:33 CDT 2017]: Saved NPC: 14694 - General Awwdor
+[Tue Sep 26 15:16:02 CDT 2017]: Started up the Cache Editor.

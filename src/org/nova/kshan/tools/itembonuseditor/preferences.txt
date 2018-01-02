@@ -1,0 +1,1 @@
+Path = C:\Users\Karimshan\Google Drive\RSPS\Nova 667\Nova Core\data\items\bonuses.txt

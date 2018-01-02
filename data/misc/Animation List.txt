@@ -1,0 +1,28 @@
+
+855 - Yes
+856 - No
+857 - Thinking
+858 - Bow
+859 - Angry
+860 - Cry
+861 - Laugh
+862 - Cheer
+863 - Wave
+864 - Beckon
+865 - Clap
+866 - Dance
+2105 - panic emote
+2106 - slow jig emote
+2107 - spin emote
+2108 - headbang emote
+2109 - joy jump emote
+2110 - rasp' berry emote
+2111 - yawn emote
+2112 - salute emote
+2113 - shrug emote
+1128 - Glass Wall
+1129 - Lean on Air
+1130 - Climb Rope
+1131 - Glass Box
+1132 - Kneeling down and patting the ground
+1133 - Diving towards the floor

@@ -1,0 +1,66 @@
+// Sandwich lady, 0, added by: Lucifer
+8629 - 75 73 0 false
+// Spria, 0, added by: Lucifer
+8462 - 2888 3429 0 true
+// Mazchna, 0, added by: Lucifer
+8274 - 3495 3487 0 true
+// Turael, 0, added by: Lucifer
+8273 - 2932 3536 0 true
+// Kuradal, 0, added by: Lucifer
+9085 - 1735 5313 1 true
+// Pit ogre, 62, added by: Lucifer
+11563 - 2580 9742 0 true
+// Pit ogre, 62, added by: Lucifer
+11563 - 2580 9736 0 true
+// Pit ogre, 62, added by: Lucifer
+11563 - 2584 9736 0 true
+// Pit ogre, 62, added by: Lucifer
+11563 - 2588 9742 0 true
+// Pit ogre, 62, added by: Lucifer
+11563 - 2582 9744 0 true
+// Pit ogre, 62, added by: Lucifer
+11563 - 2580 9741 0 true
+// Pit ogre, 62, added by: Lucifer
+11563 - 2576 9745 0 true
+// Pit ogre, 62, added by: Lucifer
+11563 - 2580 9747 0 true
+// Pit ogre, 62, added by: Lucifer
+11563 - 2577 9742 0 true
+// Pit ogre, 62, added by: Lucifer
+11563 - 2590 9735 0 true
+// Pit ogre, 62, added by: Lucifer
+11563 - 2586 9732 0 true
+// Death wing, 83, added by: Lucifer
+79 - 2563 9754 0 true
+// Death wing, 83, added by: Lucifer
+79 - 2564 9754 0 true
+// Death wing, 83, added by: Lucifer
+79 - 2567 9755 0 true
+// Death wing, 83, added by: Lucifer
+79 - 2568 9752 0 true
+// Death wing, 83, added by: Lucifer
+79 - 2570 9753 0 true
+// Death wing, 83, added by: Lucifer
+79 - 2572 9749 0 true
+// Death wing, 83, added by: Lucifer
+79 - 2571 9752 0 true
+// Death wing, 83, added by: Lucifer
+79 - 2571 9754 0 true
+// Death wing, 83, added by: Lucifer
+79 - 2568 9753 0 true
+// Banker, 0, added by: Lucifer
+494 - 2574 3348 0 false
+// Spirit Tree, 0, added by: Lucifer
+3637 - 5518 4457 0 false
+// Ethereal Guide, 0, added by: Lucifer
+4506 - 5504 4447 0 false
+// Surgeon General Tafani, 0, added by: Lucifer
+961 - 5500 4453 0 false
+// Banker, 0, added by: Lucifer
+494 - 5508 4456 0 false
+// Shopkeeper, 0, added by: Lucifer
+520 - 5500 4456 0 false
+// Cosmic Entity, 0, added by: Lucifer
+14688 - 5510 4453 0 false
+// Saba, 0, added by: Lucifer
+1070 - 2270 4757 0 true

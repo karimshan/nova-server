@@ -1,0 +1,147 @@
+73 - close interface
+90 - untested (some chunk packet) (?)
+60 - ground item (chunk packet) (?)
+117 - show/hide interface component
+47 - object animation in updating chunk
+89 - change default cursor/walk here option
+5 - ground item (destroy?)
+63 - sets aBoolean4782 of type 5 interface components, not sure what it is (?)
+8 - set vertical scroll
+136 - something with idx36 and interface componenets (?)
+104 - set interface component position
+118 - clan chat (?)
+20 - quick chat (friend chat?)
+88 - world list
+144 - something with running clientscripts (?)
+101 - small config
+86 - config reset (?)
+131 - quick chat (clan chat?)
+27 - stop all animations (?)
+124 - something with attack option position (?)
+68 - minimap status
+58 - model on interface component
+32 - text on coordinates (?)
+59 - logout 1
+85 - friend list update
+35 - something with sound (?)
+84 - big bitconfig
+97 - quickchat related (?)
+78 - sound effect 2
+141 - see cs opcode 7102 theora/vorbis related (?)
+95 - set component font
+37 - full item container
+129 - reverse dns lookup and set on lobby
+112 - big 'global' config
+44 - construct face on interface component (ids from identitykit container)
+18 - full player model on interface component
+51 - logout 2
+128 - construct map region
+80 - item container update
+50 - run script
+2 - sprite on interface component
+103 - system update related (?)
+67 - window pane
+21 - set settings string
+74 - personal npc animation (?)
+125 - system update
+100 - something with lobby? (?)
+39 - big config
+79 - clan channel related (?)
+82 - set interface RGB (reads 5 highest bit of each RGB component)
+92 - camera related but won't do anything (?)
+142 - reset sound
+132 - play cutscene from idx35
+139 - openjs (javascript?)
+42 - something with text untested (?)
+14 - small config
+93 - skill update
+134 - chat config related (?)
+130 - something with interfaces type18 update (?)
+138 - something with text untested (?)
+81 - hint icon
+123 - some global flag for npcs (?)
+56 - set random.dat
+9 - item on interface
+113 - see cs opcode 7100 theora/vorbis related (?)
+49 - something with 'face here'
+61 - set grand exchange item status
+71 - see cs opcode 7101 theora/vorbis related (?)
+41 - graphics on updating chunk
+102 - message
+54 - 'global' string (reads signed short)
+34 - camera tilt/earthquake
+65 - sound effect on updating chunk (?) (automatic volume i guess?)
+57 - ignore list (?)
+99 - something with objects (chunk packet) (?)
+1 - set player option
+22 - access mask (param2)
+115 - something with interfaces type13 update (?)
+11 - something with objects (model?) (chunk packet) (?)
+108 - something with players/npcs/gfx (?)
+98 - npc head on interface
+70 - checks for client edits
+10 - unlock camera
+137 - something with interfaces untested (?)
+5 - open interface
+127 - point camera at coordinates
+13 - run energy
+122 - interface component rotation/zoom
+140 - 'global' string (reads unsigned short)
+120 - receive pm
+31 - music
+0 - music effect (level up, completing something...)
+143 - social network related (facebook)
+110 - sets a var of interface component used in cs opcode 6705, but opcode never called when testing around (?)
+109 - display other players full model on interface componenet, requires a hash of their name or it won't show
+119 - sound effect2 on updating chunk (auto volume?) (chunk packet) (?)
+121 - sound effect2 (simpler version of packet 78)
+15 - stop tilt/earthquake
+69 - player updating
+72 - chat configs
+26 - something with ground items untested (?)
+114 - player head on interface
+133 - somehing with text untested (?)
+94 - switch world (citadels/fight pits i guess?) untested
+4 - refresh window pane (?)
+135 - set friend server connecting state
+7 - clan channel related (?)
+87 - set updating chunk and read multiple chunk updates
+43 - map region
+96 - object animation (not a chunk packet)
+105 - ignore list update
+36 - run script related (?)
+116 - something with text untested (?)
+19 - echo (reads 2 ints and sends them back to the server, anti bot?)
+28 - create object (?)
+24 - something with names untested (?)
+91 - public chat
+106 - sound effect1
+25 - keep alive
+3 - accessmask (param1)
+76 - something with interfaces type19 update (?)
+46 - set updating chunk
+48 - ground item related (chunk packet) (?)
+23 - interface component animation
+107 - set camera angle
+126 - something with chat/mute (?)
+111 - 'global' small config
+77 - sent pm
+30 - clan settings related (?)
+33 - set interface component string
+75 - something with item containers (?)
+45 - destroy object (?)
+6 - npc updating
+29 - move camera
+12 - something with usernames untested (?)
+62 - projectile
+55 - minimap flag position
+83 - create ground item (chunk packet)
+40 - something with text untested (?)
+
+some new kind of config, values can be ints, longs and strings see clientscript opcodes 106+ish, bitconfig definitions of these idx2 container 47
+38 - init config array
+64 - set byte
+66 - set long
+52 - set int
+53 - set string
+17 - destroys config array

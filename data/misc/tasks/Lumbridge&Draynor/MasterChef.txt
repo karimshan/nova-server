@@ -1,0 +1,7 @@
+Master Chef - Lumb&Dray - Medium - 3 - 995, 10000
+
+Complete the Cook's Assistant Quest.
+
+<col=ffff00>There are no requirements for this task, but you<br><col=ffff00>can start this task by talking to the Master Chef who is on the <br><col=ffff00>ground floor of Lumbridge Castle.
+
+10,000 coins

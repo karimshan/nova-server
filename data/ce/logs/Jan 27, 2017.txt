@@ -1,0 +1,210 @@
+[Fri Jan 27 14:42:12 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 14:42:28 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 0, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Fri Jan 27 14:42:39 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 14:42:50 CST 2017]: Removed Item: 22745 - New Item: 22745
+[Fri Jan 27 14:44:59 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 14:45:45 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 14:46:05 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 14:46:29 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 14:48:07 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 14:49:09 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 14:49:51 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 14:50:24 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 14:51:10 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 14:56:00 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 14:57:10 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 14:58:08 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 15:01:44 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 15:03:07 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 15:06:29 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 15:07:34 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 15:12:40 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 15:13:49 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 15:14:51 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 15:21:33 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 15:29:38 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 15:32:13 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 15:35:30 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 15:37:15 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 15:37:56 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 0, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Fri Jan 27 15:39:53 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 15:41:47 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 0, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Fri Jan 27 15:41:52 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 0, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Fri Jan 27 15:42:11 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 0, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Fri Jan 27 15:42:12 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 0, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Fri Jan 27 15:43:37 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 0, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Fri Jan 27 15:44:22 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 15:44:52 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 15:45:20 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 0, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Fri Jan 27 15:45:38 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 0, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Fri Jan 27 15:45:46 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 15:45:56 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 0, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Fri Jan 27 15:46:06 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 0, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Fri Jan 27 15:46:21 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 0, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Fri Jan 27 15:46:40 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 0, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Fri Jan 27 15:46:49 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 0, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Fri Jan 27 15:47:33 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 15:48:13 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 0, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Fri Jan 27 15:49:11 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 15:51:04 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 15:52:48 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 15:53:39 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 0, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Fri Jan 27 15:53:52 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 0, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Fri Jan 27 15:54:21 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 15:54:35 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 0, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Fri Jan 27 15:54:42 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 0, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Fri Jan 27 15:54:46 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 0, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Fri Jan 27 15:55:02 CST 2017]: Name: Zamorak warhammer, Item ID: 22729, Inventory Model ID: 66096, Worn Model Id: 66097, Price: 100,000,000, Inventory Options: null;Wield;null;null;drop;, 
+[Fri Jan 27 15:55:04 CST 2017]: Name: Zamorak warhammer, Item ID: 22729, Inventory Model ID: 66096, Worn Model Id: 66097, Price: 100,000,000, Inventory Options: null;Wield;null;null;drop;, 
+[Fri Jan 27 15:55:05 CST 2017]: Name: Zamorak warhammer, Item ID: 22729, Inventory Model ID: 66096, Worn Model Id: 66097, Price: 100,000,000, Inventory Options: null;Wield;null;null;drop;, 
+[Fri Jan 27 15:55:05 CST 2017]: Name: Zamorak warhammer, Item ID: 22729, Inventory Model ID: 66096, Worn Model Id: 66097, Price: 100,000,000, Inventory Options: null;Wield;null;null;drop;, 
+[Fri Jan 27 15:55:05 CST 2017]: Name: Zamorak warhammer, Item ID: 22729, Inventory Model ID: 66096, Worn Model Id: 66097, Price: 100,000,000, Inventory Options: null;Wield;null;null;drop;, 
+[Fri Jan 27 15:55:05 CST 2017]: Name: Zamorak warhammer, Item ID: 22729, Inventory Model ID: 66096, Worn Model Id: 66097, Price: 100,000,000, Inventory Options: null;Wield;null;null;drop;, 
+[Fri Jan 27 15:55:06 CST 2017]: Name: Zamorak warhammer, Item ID: 22729, Inventory Model ID: 66096, Worn Model Id: 66097, Price: 100,000,000, Inventory Options: null;Wield;null;null;drop;, 
+[Fri Jan 27 15:55:41 CST 2017]: Name: Zamorak warhammer, Item ID: 22729, Inventory Model ID: 66096, Worn Model Id: 66097, Price: 100,000,000, Inventory Options: null;Wield;null;null;drop;, 
+[Fri Jan 27 15:56:52 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 0, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Fri Jan 27 15:57:12 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 15:57:24 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 0, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Fri Jan 27 15:57:32 CST 2017]: Name: Demonic chestplate, Item ID: 22738, Inventory Model ID: 66114, Worn Model Id: 66115, Price: 2,500, Inventory Options: null;Wield;null;null;drop;, 
+[Fri Jan 27 15:57:35 CST 2017]: Name: Demonic chestplate, Item ID: 22738, Inventory Model ID: 66114, Worn Model Id: 66115, Price: 2,500, Inventory Options: null;Wield;null;null;drop;, 
+[Fri Jan 27 15:57:47 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 0, Worn Model Id: -1, Price: 599,324, Inventory Options: null;null;null;null;drop;, 
+[Fri Jan 27 15:58:20 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 15:58:52 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 16:01:39 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 16:02:14 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 16:02:24 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 16:02:29 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 16:02:31 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 16:03:31 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 16:03:48 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 16:04:05 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 16:07:05 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 16:07:49 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 16:07:50 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 16:07:59 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 16:08:09 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 16:17:29 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 16:39:01 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 16:39:35 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 16:46:28 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 16:46:42 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 16:48:17 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 16:48:34 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 16:49:00 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 16:50:48 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 16:54:41 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 16:58:50 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 17:02:14 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 17:02:31 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 17:02:38 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 17:03:26 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 17:05:05 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 17:05:28 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 17:06:00 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 17:06:47 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 17:06:53 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 17:09:48 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 17:11:06 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 17:14:54 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 17:16:37 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 17:16:47 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 17:17:04 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 17:23:14 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 17:23:19 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 17:23:26 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 17:23:35 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 17:23:45 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 17:24:20 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 17:26:23 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 17:29:13 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 17:29:29 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 17:29:52 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 17:31:59 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 17:32:30 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 17:32:36 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 17:34:44 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 17:36:25 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 17:36:36 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 17:36:54 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 17:37:01 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 17:37:06 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 17:37:22 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 17:37:33 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 17:37:43 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 17:38:23 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 17:38:36 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 17:38:43 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 17:40:51 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 17:41:38 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 17:42:03 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 18:01:15 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 18:01:25 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 18:01:34 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 18:01:48 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 18:03:55 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 18:04:14 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 18:04:17 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 599,324, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 18:05:49 CST 2017]: Name: TokHaar-Kal, Item ID: 22744, Inventory Model ID: 66126, Worn Model Id: 66127, Price: 80,000,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 27 18:06:03 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 18:06:15 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 73,372, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 18:06:19 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 733,724,821, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 18:06:21 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 73,728, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 18:06:24 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 4,782,782, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 18:06:30 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 4,782,782, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 18:06:37 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 4,782,782, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 18:06:54 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 4,782,782, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 18:15:49 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 18:15:55 CST 2017]: Cloned Item: 22746 - Instruction manual - (5)
+[Fri Jan 27 18:16:18 CST 2017]: Cloned Item: 22746 - Ancient crown - (22736)
+[Fri Jan 27 18:16:44 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 4,782,782, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 18:16:54 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 4,782,782, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 18:16:59 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 4,782,782, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 18:17:38 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 18:17:46 CST 2017]: Cloned Item: 22746 - Wild slayer helmet - (From: 22741)
+[Fri Jan 27 18:17:48 CST 2017]: Name: Wild slayer helmet - (From: 22741), Item ID: 22746, Inventory Model ID: 66120, Worn Model Id: 66121, Price: 1, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 27 18:17:53 CST 2017]: Cloned Item: 22747 - Wild slayer helmet - (From: 22741) - (From: 22746)
+[Fri Jan 27 18:51:28 CST 2017]: Removed Item: 22746 - Wild slayer helmet - (From: 22741)
+[Fri Jan 27 19:41:50 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 19:42:04 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 4,782,782, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 19:42:08 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 4,782,782, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 19:42:12 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 4,782,782, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 19:42:17 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 4,782,782, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 19:42:24 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 4,782,782, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 19:42:27 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 4,782,782, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 19:42:31 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 4,782,782, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 19:42:46 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 4,782,782, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 19:44:56 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 19:45:18 CST 2017]: Name: Test Item, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 478,278, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 19:45:30 CST 2017]: Name: Saradomin warhammer, Item ID: 22727, Inventory Model ID: 66092, Worn Model Id: 66093, Price: 10,000,000, Inventory Options: null;Wield;null;null;drop;, 
+[Fri Jan 27 19:46:03 CST 2017]: Name: Saradomin warhammer, Item ID: 22727, Inventory Model ID: 66092, Worn Model Id: 66093, Price: 100,000,000, Inventory Options: null;Wield;null;null;drop;, 
+[Fri Jan 27 19:46:13 CST 2017]: Cloned Item: 22746 - New Name: Test Item - (From: 22745)
+[Fri Jan 27 19:46:35 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 478,278, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 19:46:56 CST 2017]: Model Packing revealed 15 nulled models in your cache.
+[Fri Jan 27 19:46:56 CST 2017]: The nulled models are: [65999, 66000, 66001, 66002, 66005, 66006, 66007, 66008, 66009, 66010, 66013, 66014, 66129, 66130, 66131]
+[Fri Jan 27 19:47:31 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 478,278, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 19:47:46 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 47,827,893, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 19:47:50 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 478,278,938, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 19:47:57 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 2,100,278,938, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 21:05:18 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 21:06:06 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 21:07:04 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 21:11:55 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 21:13:55 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 21:17:56 CST 2017]: Model Packing revealed 15 nulled models in your cache.
+[Fri Jan 27 21:17:56 CST 2017]: The nulled models are: [65999, 66000, 66001, 66002, 66005, 66006, 66007, 66008, 66009, 66010, 66013, 66014, 66129, 66130, 66131]
+[Fri Jan 27 21:21:17 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 2,100,278,938, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 21:22:59 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 2,100,278,938, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 21:23:01 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 2,100,278,938, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 21:23:10 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 2,100,278,938, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 21:23:28 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 2,100,278,938, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 21:23:44 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 2,100,278,938, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 21:23:54 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 21:25:34 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 21:25:50 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 2,100,278,938, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 21:25:53 CST 2017]: Name: New Item: 22745, Item ID: 22745, Inventory Model ID: 65547, Worn Model Id: 65547, Price: 2,100,278,938, Inventory Options: Wear;null;null;null;drop;, 
+[Fri Jan 27 21:26:18 CST 2017]: Name: Demonic shield, Item ID: 22740, Inventory Model ID: 66118, Worn Model Id: 66119, Price: 2,500, Inventory Options: null;Wield;Inspect;Empty;drop;, 
+[Fri Jan 27 21:26:20 CST 2017]: Name: Demonic shield, Item ID: 22740, Inventory Model ID: 66118, Worn Model Id: 66119, Price: 2,500, Inventory Options: null;Wield;Inspect;Empty;drop;, 
+[Fri Jan 27 21:39:55 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 21:48:58 CST 2017]: Started up the Cache Editor.
+[Fri Jan 27 21:49:13 CST 2017]: Model Packing revealed 15 nulled models in your cache.
+[Fri Jan 27 21:49:13 CST 2017]: The nulled models are: [65999, 66000, 66001, 66002, 66005, 66006, 66007, 66008, 66009, 66010, 66013, 66014, 66129, 66130, 66131]

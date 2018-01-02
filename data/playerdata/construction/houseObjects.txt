@@ -1,0 +1,79 @@
+# Format: (Name - itemId - levelRequired - XP - objectIds - itemsRequired)
+
+#Testing
+Test - 1 - 1 - 1 - 1, 4, 5:9, 69x5, 1:4 - 1, 1
+
+# Chairs
+Crude wooden chair - 8309 - 1 - 66 - 13581 - plank, 2, steel nails, 2
+Wooden chair - 8310 - 8 - 96 - 13582 - plank, 3, steel nails, 3
+Rocking chair - 8311 - 14 - 96 - 13583 - plank, 3, steel nails, 3
+Oak chair - 8312 - 19 - 120 - 13584 - oak plank, 2
+Oak armchair - 8313 - 26 - 180 - 13585 - oak plank, 3
+Teak armchair - 8314 - 35 - 180 - 13586 - teak plank, 2
+Mahogany armchair - 8315 - 50 - 280 - 13587 - mahogany plank, 2
+
+# Rugs
+Brown rug - 8316 - 2 - 30 - 13588:13590 - bolt of cloth, 2
+Rug - 8317 - 13 - 60 - 13591:13593 - bolt of cloth, 4
+Opulent rug - 8318 - 65 - 360 - 13594:13596 - bolt of cloth, 4, 8784, 1
+
+# Fireplaces
+Clay fireplace - 8325 - 3 - 30 - 13609 - soft clay, 3
+Stone fireplace - 8326 - 33 - 40 - 13611 - limestone brick, 2
+Marble fireplace - 8327 - 63 - 500 - 13613 - marble block, 1
+
+# Clocks
+Oak clock - 8052 - 25 - 142 - 13169 - oak plank, 2, clockwork, 1
+Teak clock - 8053 - 55 - 202 - 13170 - teak plank, 2, clockwork, 1
+Gilded clock - 8054 - 85 - 602 - 13171 - mahogany plank, 2, clockwork, 1, 8784, 1
+
+# Beds
+Wooden bed - 8031 - 20 - 117 - 13148 - plank, 3, bolt of cloth, 2, steel nails, 3
+Oak bed - 8032 - 30 - 210 - 13149 - oak plank, 3, bolt of cloth, 2
+Large oak bed - 8033 - 34 - 330 - 13150 - oak plank, 5, bolt of cloth, 2
+Teak bed - 8034 - 40 - 300 - 13151 - teak plank, 3, bolt of cloth, 2
+Large teak bed - 8035 - 45 - 480 - 13152 - teak plank, 5, bolt of cloth, 2
+4-poster - 8036 - 53 - 450 - 13153 - mahogany plank, 3, bolt of cloth, 2
+Gilded 4-poster - 8037 - 60 - 1330 - 13154 - mahogany plank, 5, bolt of cloth, 2, 8784, 2
+
+# Dressers
+Shaving stand - 8045 - 21 - 30 - 13162 - plank, 1, molten glass, 1
+Oak shaving stand - 8046 - 29 - 61 - 13163 - oak plank, 1, molten glass, 1
+Oak dresser - 8047 - 37 - 121 - 13164 - oak plank, 2, molten glass, 1
+Teak dresser - 8048 - 46 - 181 - 13165 - teak plank, 2, molten glass, 1
+Fancy teak dresser - 8049 - 56 - 182 - 13166 - teak plank, 2, molten glass, 2
+Mahogany dresser - 8050 - 64 - 281 - 13167 - mahogany plank, 2, molten glass, 1
+Gilded dresser - 8051 - 74 - 582 - 13168 - mahogany plank, 2, molten glass, 2, 8784, 1
+
+# Bookcases
+Wooden bookcase - 8319 - 4 - 115 - 13597 - plank, 4, steel nails, 4
+Oak bookcase - 8320 - 29 - 180 - 13598 - oak plank, 3
+Mahogany bookcase - 8321 - 40 - 420 - 13599 - mahogany plank, 3
+
+# Habitats
+Garden habitat - 15222 - 37 - 201 - 4497, 4498, 44500:44563 - bagged plant 1, 1, bagged plant 2, 1, bagged plant 3, 1
+Jungle habitat - 15223 - 47 - 278 - 44564:44629 - bucket of water, 5, bagged plant 3, 3, bagged willow tree, 1
+Desert habitat - 15224 - 57 - 238 - 44630:44695 - bucket of sand, 10, limestone brick, 5, bagged cactus, 1
+Polar habitat - 15225 - 67 - 373 - 44696:44761 - air rune, 1000, water rune, 1000, bagged evergreen, 1
+Volcanic habitat - 15226 - 77 - 77 - 44762:44827 - lava rune, 100, stone slab, 5, bagged dead tree, 1
+
+# Pet houses
+Oak pet house - 15227 - 37 - 240 - 44828 - oak plank, 4
+Teak pet house - 15228 - 52 - 360 - 44829 - teak plank, 4
+Mahogany pet house - 15229 - 67 - 560 - 44830 - mahogany plank, 4
+Consecrated pet house - 15230 - 92 - 1560 - 44831 - mahogany plank, 4, magic stone, 1
+Desecrated pet house - 15231 - 92 - 1560 - 44832 - mahogany plank, 4, magic stone, 1
+Natural pet house - 15232 - 92 - 1560 - 44833 - mahogany plank, 4, magic stone, 1
+
+# Pet feeders
+Oak pet feeder - 15233 - 37 - 240 - 44834 - oak plank, 4
+Teak pet feeder - 15234 - 52 - 360 - 44835 - teak plank, 4
+Mahogany pet feeder - 15235 - 67 - 860 - 44836 - mahogany plank, 4, 8784, 1
+
+# Menagerie obelisks
+Mini obelisk - 15236 - 41 - 676 - 44837 - spirit shards, 1000, marble block, 1, gold charm, 10, green charm, 10, blue charm, 10, crimson charm, 10
+
+# Rings
+Boxing ring - 8023 - 32 - 570 - 13129x8, 13126x4, 13128x3, 13127 - oak plank, 6, bolt of cloth, 4
+Fencing ring - 8024 - 31 - 570 - 13133x8, 13135x4, 13134x3, 13136 - oak plank, 6, bolt of cloth, 6
+Combat ring - 8025 - 51 - 630 - 13137x8, 13138x4, 13139x3, 13140 - teak plank, 6, bolt of cloth, 6

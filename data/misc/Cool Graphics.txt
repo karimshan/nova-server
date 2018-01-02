@@ -1,0 +1,23 @@
+// GFX LIST
+
+2754 - Orange light going towards player and then bursting outward
+2755 - Aura of blue from underneath player and bubbles coming from them
+2756 to 2759 - Bubbles of gas shooting outwards from underneath player
+2760 to 2763 - Bubbles coming from players arm
+2751 - Blue lightning striking player and purple bubbles rising from underneath, rocks fly out too
+2752 - Purple bubbles floating near player's knees, and there's lightning in the bubbles
+2750 - Projectile of purple bubble tipped lightning
+2745 and 2746 - Skeleton dying? LOL
+2747 to 2749 - Weird triangles rising and gray circle around player
+2744 - Summoning familiar graphic effect
+2743 - Animation of Merlin walking lol wtf
+2737 to 2741 - Spinning circle of fire (gets bigger each rise in gfx number)
+2794 - Circle of fire at player's feet and then birds start circling up and around the player lol
+2793 - Summoning familiar effect (small familiar) and then rainbow ribbon spinning all the way up
+2792 - Party and confetti effect
+2791 - White rings pulsate from head down
+2789 - Green arrows on the ground
+2790 - Red arrows on the ground
+2788 - Weird white pixel cloud that engulfs player
+2818 - Flurry of blue particles around player
+2819 - Red electricity in front of player

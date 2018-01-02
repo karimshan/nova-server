@@ -1,0 +1,45 @@
+# Handles signposts. Format: (Signpost) - (Message)
+
+lumbridge castle - into Lumbridge
+lumbridge - to Lumbridge
+lumbridge farms - to Lumbridge Farms
+graveyard and swamp, daemonheim (via boat) - to Lumbridge's graveyard/swamp and a boat to Daemonheim
+al kharid - to Al Kharid
+varrock - to Varrock
+draynor - to Draynor and the Wizards' Tower
+draynor village - to Draynor
+draynor village, wizards' tower - into Draynor Village and towards the Wizards' Tower
+draynor manor - to Draynor Manor
+falador, port sarim, clan camp - to Falador, Port Sarim and the Clan Camp
+wizards' tower - to the Wizards' Tower
+port sarim - to Port Sarim and Mudskipper Point
+clan camp, falador - to the Clan Camp and Falador
+rimmington - to Rimmington
+falador - to Falador
+clan camp, port sarim - to the Clan Camp and Port Sarim
+gunnarsgrunn - to Gunnarsgrunn and Varrock
+taverley - to Taverley
+goblin village - to Goblin Village
+burthorpe - to Burthorpe and Death Plateau
+white wolf mountain - to White Wolf Mountain (leading to Catherby)
+burthorpe castle, death plateau - to Burthorpe Castle and Death Plateau
+daemonheim (via boat) - to the boat to Daemonheim
+catherby (over white wolf mountain) - over White Wolf Mountain to Catherby
+falador, taverly - to Falador, Taverly and Burthorpe
+edgeville monastery, dwarven mine - to the monastery, the Dwarven Mine and Ice Mountain
+gunnarsgrunn, draynor - to Gunnarsgrunn and Draynor
+ice mountain, dwarven mine - to Ice Mountain and the Dwarven Mine, also the Black Knights' Fortress
+edgeville monastery, wilderness - to Edgeville Monastery and the Wilderness
+cooks' guild - to the Cooks' Guild and on to the Grand Exchange
+grand exchange - to the Grand Exchange
+lumber yard - to the Lumber Yard and the Jolly Boar Inn
+paterdomus - to Paterdomus and Morytania
+champions' guild - to the Champions' Guild
+lumbridge, al kharid - to Lumbridge and Al Kharid
+exam centre, digsite - to the Exam Centre and Digsite
+lumbridge, varrock - to Lumbridge and Varrock
+al kharid, shantay pass - to Al Kharid and Shantay Pass, beyond which lies the Kharidian Desert
+citharede abbey - to the Abbey of St.Elspeth
+duel arena - to the Duel Arena
+shantay pass - to Shantay Pass, beyond which lies the Kharidian Desert
+lumbridge mill, varrock - to Lumbridge mill and Varrock

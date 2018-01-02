@@ -1,0 +1,2 @@
+[Thu Dec 21 00:32:42 CST 2017, 184.4.59.94] liquor picked up an item: [22697, Bork F* - x1] at location: [5506, 4454, 0]
+[Thu Dec 21 00:33:03 CST 2017, 184.4.59.94] liquor picked up an item: [22654, <col=FFFFFF>Octo F* - x1] at location: [5507, 4452, 0]

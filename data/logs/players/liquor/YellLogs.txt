@@ -1,0 +1,7 @@
+[Sat Dec 02 23:53:37 CST 2017, 184.4.57.2] liquor said: "BOI" using the 'yell' command.
+[Sat Dec 02 23:55:03 CST 2017, 184.4.57.2] liquor said: "Where you be" using the 'yell' command.
+[Sat Dec 02 23:55:19 CST 2017, 184.4.57.2] liquor said: "I'M a player dawg no teleto ability" using the 'yell' command.
+[Tue Dec 05 01:00:02 CST 2017, 184.4.56.83] liquor said: "How m8" using the 'yell' command.
+[Tue Dec 05 01:05:07 CST 2017, 184.4.56.83] liquor said: "How is it doing boi" using the 'yell' command.
+[Tue Dec 05 01:41:10 CST 2017, 184.4.56.83] liquor said: "I type slow a sshit" using the 'yell' command.
+[Tue Dec 05 01:41:18 CST 2017, 184.4.56.83] liquor said: "I type slow as shit boi" using the 'yell' command.

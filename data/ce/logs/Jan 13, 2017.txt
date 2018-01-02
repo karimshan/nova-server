@@ -1,0 +1,138 @@
+[Fri Jan 13 00:05:05 CST 2017]: Started up the Cache Editor.
+[Fri Jan 13 00:05:13 CST 2017]: Model Packing revealed 3 nulled models in your cache.
+[Fri Jan 13 00:05:13 CST 2017]: The nulled models are: [66129, 66130, 66131]
+[Fri Jan 13 00:05:24 CST 2017]: The Model ID of the packed model from the file "mod fire cape.dat" is: 66132
+[Fri Jan 13 00:06:29 CST 2017]: The Model ID of the packed model from the file "mod fire cape.dat" is: 66132
+[Fri Jan 13 00:11:23 CST 2017]: The Model ID of the packed model from the file "mod fire cape.dat" is: 66132
+[Fri Jan 13 00:12:22 CST 2017]: The Model ID of the packed model from the file "mod fire cape.dat" is: 66132
+[Fri Jan 13 00:13:01 CST 2017]: The Model ID of the packed model from the file "mod fire cape.dat" is: 66132
+[Fri Jan 13 00:13:46 CST 2017]: The Model ID of the packed model from the file "mod fire cape.dat" is: 66132
+[Fri Jan 13 00:14:39 CST 2017]: The Model ID of the packed model from the file "mod fire cape.dat" is: 66132
+[Fri Jan 13 00:16:22 CST 2017]: The Model ID of the packed model from the file "mod fire cape.dat" is: 66132
+[Fri Jan 13 00:18:05 CST 2017]: The Model ID of the packed model from the file "mod fire cape.dat" is: 66132
+[Fri Jan 13 00:19:56 CST 2017]: The Model ID of the packed model from the file "mod fire cape.dat" is: 66132
+[Fri Jan 13 00:23:48 CST 2017]: The Model ID of the packed model from the file "mod fire cape.dat" is: 66132
+[Fri Jan 13 00:26:36 CST 2017]: The Model ID of the packed model from the file "mod fire cape.dat" is: 66132
+[Fri Jan 13 00:27:47 CST 2017]: The Model ID of the packed model from the file "mod fire cape.dat" is: 66132
+[Fri Jan 13 00:28:59 CST 2017]: The Model ID of the packed model from the file "mod fire cape.dat" is: 66132
+[Fri Jan 13 00:30:18 CST 2017]: The Model ID of the packed model from the file "mod fire cape.dat" is: 66132
+[Fri Jan 13 00:31:07 CST 2017]: The Model ID of the packed model from the file "mod fire cape.dat" is: 66132
+[Fri Jan 13 00:32:09 CST 2017]: The Model ID of the packed model from the file "mod fire cape.dat" is: 66132
+[Fri Jan 13 00:33:18 CST 2017]: The Model ID of the packed model from the file "mod fire cape.dat" is: 66132
+[Fri Jan 13 00:34:11 CST 2017]: The Model ID of the packed model from the file "mod fire cape.dat" is: 66132
+[Fri Jan 13 00:34:56 CST 2017]: The Model ID of the packed model from the file "mod fire cape.dat" is: 66132
+[Fri Jan 13 00:36:09 CST 2017]: The Model ID of the packed model from the file "mod fire cape.dat" is: 66132
+[Fri Jan 13 00:37:05 CST 2017]: The Model ID of the packed model from the file "mod fire cape.dat" is: 66132
+[Fri Jan 13 00:43:53 CST 2017]: The Model ID of the packed model from the file "mod fire cape.dat" is: 66132
+[Fri Jan 13 00:46:39 CST 2017]: The Model ID of the packed model from the file "mod fire cape.dat" is: 66132
+[Fri Jan 13 00:49:03 CST 2017]: The Model ID of the packed model from the file "mod fire cape.dat" is: 66132
+[Fri Jan 13 00:53:50 CST 2017]: The Model ID of the packed model from the file "mod fire cape.dat" is: 66132
+[Fri Jan 13 00:55:14 CST 2017]: The Model ID of the packed model from the file "mod fire cape.dat" is: 66132
+[Fri Jan 13 00:57:58 CST 2017]: The Model ID of the packed model from the file "mod fire cape.dat" is: 66132
+[Fri Jan 13 00:59:32 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:00:20 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:01:05 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:02:35 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:03:43 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:04:52 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:05:51 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:06:14 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:07:11 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:07:50 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:09:29 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:10:35 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:11:17 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:11:56 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:12:27 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:13:16 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:14:58 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:15:49 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:16:54 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:17:16 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:18:36 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:18:37 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:18:41 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:20:47 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:21:31 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:23:03 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:24:33 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:24:59 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:26:33 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:27:08 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:27:33 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:28:08 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 01:49:42 CST 2017]: Started up the Cache Editor.
+[Fri Jan 13 01:50:13 CST 2017]: Removed Item: 22745 - Modded Fire cape
+[Fri Jan 13 01:57:15 CST 2017]: Started up the Cache Editor.
+[Fri Jan 13 01:57:31 CST 2017]: Model Packing revealed 3 nulled models in your cache.
+[Fri Jan 13 01:57:31 CST 2017]: The nulled models are: [66129, 66130, 66131]
+[Fri Jan 13 01:57:52 CST 2017]: The Model ID of the packed model from the file "Shadow Dragon.dat" is: 65682
+[Fri Jan 13 02:03:14 CST 2017]: Name: White tri-abyssal whip, Item ID: 22674, Inventory Model ID: 65528, Worn Model Id: 65981, Price: 1,200,000,000, Inventory Options: null;Wield;null;null;drop;, 
+[Fri Jan 13 02:03:43 CST 2017]: Name: Yellow tri-abyssal whip, Item ID: 22675, Inventory Model ID: 65528, Worn Model Id: 65984, Price: 1,200,000,000, Inventory Options: null;Wield;Charge;null;drop;, 
+[Fri Jan 13 02:03:51 CST 2017]: Name: Red tri-abyssal whip, Item ID: 22676, Inventory Model ID: 65528, Worn Model Id: 65987, Price: 1,200,000,000, Inventory Options: null;Wield;Charge;null;drop;, 
+[Fri Jan 13 02:03:58 CST 2017]: Name: Green tri-abyssal whip, Item ID: 22677, Inventory Model ID: 65528, Worn Model Id: 65990, Price: 1,200,000,000, Inventory Options: null;Wield;Charge;null;drop;, 
+[Fri Jan 13 02:04:07 CST 2017]: Name: Blue tri-abyssal whip, Item ID: 22678, Inventory Model ID: 65528, Worn Model Id: 65993, Price: 1,200,000,000, Inventory Options: null;Wield;Charge;null;drop;, 
+[Fri Jan 13 02:08:41 CST 2017]: Name: Yellow tri-abyssal whip, Item ID: 22675, Inventory Model ID: 65528, Worn Model Id: 65984, Price: 1,200,000,000, Inventory Options: null;Wield;Charge;null;drop;, 
+[Fri Jan 13 02:08:56 CST 2017]: Name: Red tri-abyssal whip, Item ID: 22676, Inventory Model ID: 65528, Worn Model Id: 65987, Price: 1,200,000,000, Inventory Options: null;Wield;Charge;null;drop;, 
+[Fri Jan 13 02:09:06 CST 2017]: Name: Green tri-abyssal whip, Item ID: 22677, Inventory Model ID: 65528, Worn Model Id: 65990, Price: 1,200,000,000, Inventory Options: null;Wield;Charge;null;drop;, 
+[Fri Jan 13 02:09:14 CST 2017]: Name: Green tri-abyssal whip, Item ID: 22677, Inventory Model ID: 65528, Worn Model Id: 65990, Price: 1,200,000,000, Inventory Options: null;Wield;null;null;drop;, 
+[Fri Jan 13 02:09:21 CST 2017]: Name: Red tri-abyssal whip, Item ID: 22676, Inventory Model ID: 65528, Worn Model Id: 65987, Price: 1,200,000,000, Inventory Options: null;Wield;null;null;drop;, 
+[Fri Jan 13 02:09:29 CST 2017]: Name: Yellow tri-abyssal whip, Item ID: 22675, Inventory Model ID: 65528, Worn Model Id: 65984, Price: 1,200,000,000, Inventory Options: null;Wield;null;null;drop;, 
+[Fri Jan 13 02:09:58 CST 2017]: Name: Blue tri-abyssal whip, Item ID: 22678, Inventory Model ID: 65528, Worn Model Id: 65993, Price: 1,200,000,000, Inventory Options: null;Wield;Charge;null;drop;, 
+[Fri Jan 13 02:15:07 CST 2017]: Started up the Cache Editor.
+[Fri Jan 13 02:15:16 CST 2017]: Saved model: 66064 ("66064 - Inv ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Fri Jan 13 02:15:16 CST 2017]: Saved model: 66065 ("66065 - M1 ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Fri Jan 13 02:15:16 CST 2017]: Saved model: 66065 ("66065 - F1 ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Fri Jan 13 03:30:01 CST 2017]: Started up the Cache Editor.
+[Fri Jan 13 03:30:27 CST 2017]: Model Packing revealed 3 nulled models in your cache.
+[Fri Jan 13 03:30:27 CST 2017]: The nulled models are: [66129, 66130, 66131]
+[Fri Jan 13 03:30:54 CST 2017]: The Model ID of the packed model from the file "Agility male.dat" is: 65547
+[Fri Jan 13 03:31:40 CST 2017]: The Model ID of the packed model from the file "Farming male.dat" is: 65561
+[Fri Jan 13 03:53:15 CST 2017]: The Model ID of the packed model from the file "Agility male.dat" is: 65547
+[Fri Jan 13 04:02:04 CST 2017]: The Model ID of the packed model from the file "Slayer male.dat" is: 65583
+[Fri Jan 13 04:02:43 CST 2017]: The Model ID of the packed model from the file "Slayer male.dat" is: 65530
+[Fri Jan 13 04:04:17 CST 2017]: Name: Assassin's cape, Item ID: 22452, Inventory Model ID: 65582, Worn Model Id: 65530, Price: 120,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 04:06:02 CST 2017]: The Model ID of the packed model from the file "Slayer male.dat" is: 65583
+[Fri Jan 13 04:06:17 CST 2017]: The Model ID of the packed model from the file "Slayer male.dat" is: 65530
+[Fri Jan 13 04:08:34 CST 2017]: Saved model: 65258 ("65258 - Inv ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Fri Jan 13 04:08:34 CST 2017]: Saved model: 65295 ("65295 - M1 ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Fri Jan 13 04:08:34 CST 2017]: Saved model: 65328 ("65328 - F1 ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Fri Jan 13 04:08:44 CST 2017]: Saved model: 65270 ("65270 - Inv ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Fri Jan 13 04:08:44 CST 2017]: Saved model: 65297 ("65297 - M1 ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Fri Jan 13 04:08:44 CST 2017]: Saved model: 65316 ("65316 - F1 ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Fri Jan 13 11:09:57 CST 2017]: Started up the Cache Editor.
+[Fri Jan 13 11:10:08 CST 2017]: Model Packing revealed 4 nulled models in your cache.
+[Fri Jan 13 11:10:08 CST 2017]: The nulled models are: [66129, 66130, 66131, 66132]
+[Fri Jan 13 11:10:15 CST 2017]: Cloned: 22745 - Fire cape
+[Fri Jan 13 11:10:59 CST 2017]: Name: Modded fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 11:11:26 CST 2017]: Cloned: 22746 - Modded fire cape
+[Fri Jan 13 11:11:31 CST 2017]: Name: Modded fire cape, Item ID: 22746, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 11:11:36 CST 2017]: Cloned: 22747 - Modded fire cape
+[Fri Jan 13 11:11:50 CST 2017]: Name: Modded fire cape, Item ID: 22747, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 11:11:54 CST 2017]: Cloned: 22748 - Modded fire cape
+[Fri Jan 13 11:12:08 CST 2017]: Name: Modded fire cape, Item ID: 22748, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 11:12:11 CST 2017]: Cloned: 22749 - Modded fire cape
+[Fri Jan 13 11:12:16 CST 2017]: Name: Modded fire cape, Item ID: 22749, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 11:12:45 CST 2017]: Cloned: 22750 - Modded fire cape
+[Fri Jan 13 11:13:09 CST 2017]: Name: Modded fire cape, Item ID: 22750, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 11:13:14 CST 2017]: Cloned: 22751 - Modded fire cape
+[Fri Jan 13 11:13:19 CST 2017]: Name: Modded fire cape, Item ID: 22751, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 11:13:39 CST 2017]: Cloned: 22752 - Modded fire cape
+[Fri Jan 13 11:13:47 CST 2017]: Name: Modded fire cape, Item ID: 22752, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 11:13:52 CST 2017]: Cloned: 22753 - Modded fire cape
+[Fri Jan 13 11:13:56 CST 2017]: Name: Modded fire cape, Item ID: 22753, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 11:16:23 CST 2017]: Started up the Cache Editor.
+[Fri Jan 13 11:16:47 CST 2017]: Name: Modded fire cape, Item ID: 22746, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 11:18:34 CST 2017]: Name: Modded fire cape, Item ID: 22749, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 11:18:39 CST 2017]: Cloned: 22754 - Modded fire cape
+[Fri Jan 13 11:18:46 CST 2017]: Name: Modded fire cape, Item ID: 22754, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 11:18:51 CST 2017]: Cloned: 22755 - Modded fire cape
+[Fri Jan 13 11:19:23 CST 2017]: Name: Modded fire cape, Item ID: 22755, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 11:19:28 CST 2017]: Cloned: 22756 - Modded fire cape
+[Fri Jan 13 11:19:38 CST 2017]: Name: Modded fire cape, Item ID: 22756, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 11:19:44 CST 2017]: Cloned: 22757 - Modded fire cape
+[Fri Jan 13 11:19:52 CST 2017]: Name: Modded fire cape, Item ID: 22757, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 11:20:58 CST 2017]: Cloned: 22758 - Modded fire cape
+[Fri Jan 13 11:21:09 CST 2017]: Name: Modded fire cape, Item ID: 22758, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Fri Jan 13 11:21:13 CST 2017]: Cloned: 22759 - Modded fire cape
+[Fri Jan 13 11:21:20 CST 2017]: Name: Modded fire cape, Item ID: 22759, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 

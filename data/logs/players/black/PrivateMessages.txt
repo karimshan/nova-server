@@ -1,0 +1,3 @@
+[Fri Jan 06 07:08:41 CST 2017, 192.168.1.211] black private messaged Lucifer saying: "Sup"
+[Fri Jan 06 07:11:03 CST 2017, 192.168.1.211] Black received a private message from lucifer saying: "Heueu"
+[Fri Jan 06 07:11:56 CST 2017, 192.168.1.211] black private messaged Lucifer saying: "Sup ho"

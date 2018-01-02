@@ -1,0 +1,6 @@
+[Mon Dec 04 23:43:14 CST 2017, 184.4.56.83] liquor dropped an item: [21107, Saxon ringlet - x1] at location: [5500, 4452, 0]
+[Tue Dec 05 01:05:27 CST 2017, 184.4.56.83] liquor dropped an item: [2, Cannonball - x11] at location: [5502, 4444, 0]
+[Thu Dec 21 00:08:13 CST 2017, 184.4.59.94] liquor dropped an item: [22744, TokHaar-Kal - x1] at location: [5508, 4455, 0]
+[Thu Dec 21 00:23:10 CST 2017, 184.4.59.94] liquor dropped an item: [22511, Arcane spirit godsword - x1] at location: [5508, 4455, 0]
+[Thu Dec 21 00:32:36 CST 2017, 184.4.59.94] liquor dropped an item: [22697, Bork F* - x1] at location: [5506, 4454, 0]
+[Thu Dec 21 00:32:59 CST 2017, 184.4.59.94] liquor dropped an item: [22654, <col=FFFFFF>Octo F* - x1] at location: [5507, 4452, 0]

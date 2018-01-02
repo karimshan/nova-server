@@ -1,0 +1,3 @@
+@echo off
+"C:\Program Files (x86)\Java\jdk1.8.0_25\bin\javac.exe" -d out -cp data/libraries/*; -sourcepath src src/org/nova/Main.java
+pause

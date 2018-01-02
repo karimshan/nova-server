@@ -1,0 +1,19 @@
+[Thu Jan 12 23:12:36 CST 2017]: Started up the Cache Editor.
+[Thu Jan 12 23:16:37 CST 2017]: Started up the Cache Editor.
+[Thu Jan 12 23:16:46 CST 2017]: Saved model: 59888 ("59888 - Inv ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Thu Jan 12 23:16:46 CST 2017]: Saved model: 59885 ("59885 - M1 ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Thu Jan 12 23:16:46 CST 2017]: Saved model: 59887 ("59887 - F1 ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Thu Jan 12 23:44:37 CST 2017]: Started up the Cache Editor.
+[Thu Jan 12 23:45:21 CST 2017]: Saved model: 2537 ("2537 - Inv ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Thu Jan 12 23:45:21 CST 2017]: Saved model: 189 ("189 - M1 ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Thu Jan 12 23:45:21 CST 2017]: Saved model: 366 ("366 - F1 ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Thu Jan 12 23:49:33 CST 2017]: Started up the Cache Editor.
+[Thu Jan 12 23:49:47 CST 2017]: Saved model: 9631 ("9631 - Inv ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Thu Jan 12 23:49:47 CST 2017]: Saved model: 9638 ("9638 - M1 ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Thu Jan 12 23:49:47 CST 2017]: Saved model: 9640 ("9640 - F1 ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Thu Jan 12 23:54:51 CST 2017]: Started up the Cache Editor.
+[Thu Jan 12 23:54:59 CST 2017]: Model Packing revealed 3 nulled models in your cache.
+[Thu Jan 12 23:54:59 CST 2017]: The nulled models are: [66129, 66130, 66131]
+[Thu Jan 12 23:55:57 CST 2017]: The Model ID of the packed model from the file "mod fire cape.dat" is: 66132
+[Thu Jan 12 23:58:17 CST 2017]: Cloned: 22745 - Fire cape
+[Thu Jan 12 23:58:37 CST 2017]: Name: Modded Fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 66132, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 

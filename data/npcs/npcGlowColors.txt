@@ -1,0 +1,9 @@
+---------------NEX--------------- : [Ice Form - 194, 110, 125, 249], [Imbued Form - 0, 33, 85, 23], 
+[Highly Saturated - 244, 27, 211, 14], [Crimson Form - 246, 244, 145, 124],
+[Shadow/Assassin Form - 236, 233, 253, 73], [Saradomin Form - 49, 96, 96, 172]
+[Seasame Street Big Bird - 117, 26, 87, 152], [Aqua Form - 43, 25, 75, 120],
+[Snow Form - 93, 46, 115, 113]
+
+---------------JAD--------------- : [Black and More White - 193, 234, 142, 29], [Lava-dipped - 46, 42, 137, 207],
+[More dark and white - 218, 171, 142, 140], [Black Jad - 22, 82, 6, 141],
+[White Jad - 113, 59, 85, 201]

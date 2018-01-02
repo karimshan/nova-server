@@ -1,0 +1,1 @@
+[Tue Sep 19 22:37:58 CDT 2017, 184.4.56.116] 1st_player has logged out using the log out button.

@@ -1,0 +1,58 @@
+// Format: key - name - (secondary)
+13 - escape
+16 - 1 - exclamation
+17 - 2 - at_mark
+18 - 3 - hash
+19 - 4 - dollar
+20 - 5 - percent
+21 - 6 - caret
+22 - 7 - ampersand
+23 - 8 - asterisk
+24 - 9 - open_parenthesis
+25 - 0 - close_parenthesis
+26 - Hyphen - underscore
+27 - equals - plus
+28 - reverse_apostrophe - tilde
+32 - q
+33 - w
+34 - e
+35 - r
+36 - t
+37 - y
+38 - u
+39 - i
+40 - o
+41 - p
+42 - open_bracket - open_brace
+43 - close_bracket - close_brace
+48 - a
+49 - s
+50 - d
+51 - f
+52 - g
+53 - h
+54 - j
+55 - k
+56 - l
+57 - semicolon - colon
+58 - apostrophe - quotation_mark
+64 - z
+65 - x
+66 - c
+67 - v
+68 - b
+69 - n
+70 - m
+71 - comma - less_than
+72 - period - greater_than
+73 - forward_slash - question_mark
+74 - backslash - pipe
+80 - tab
+81 - shift
+83 - space_bar
+84 - enter
+85 - backspace
+96 - left
+97 - right
+98 - up
+99 - down

@@ -1,0 +1,34 @@
+package org.nova.network.bot;
+
+import java.util.concurrent.ThreadFactory;
+
+/**
+ * 
+ * @author K-Shan
+ *
+ */
+public class ThreadCreator implements ThreadFactory {
+	
+	private String name;
+	private int priority;
+	
+	public ThreadCreator(String name, int priority) {
+		this.name = name;
+		this.priority = priority;
+	}
+	
+	public Thread newThread(Runnable r) {
+		Thread thread = new Thread(r, getName());
+		thread.setPriority(getPriority());
+		return thread;
+	}
+	
+	public String getName() {
+		return name;
+	}
+	
+	public int getPriority() {
+		return priority;
+	}
+
+}

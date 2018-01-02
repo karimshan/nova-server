@@ -1,0 +1,39 @@
+9750 - 9752 - Shocked, terrified, shaking head one way to another, "No way!", with yell
+9753 - Shocked, terrified, Shaking head one way to another, "No way!", no yell
+9757 - 9759 - Thank you, bow head down
+9760 and 9764 - Sad
+9761 - Sadder
+9762 - 9763 - Sadder, looks right
+9765 - 9767 - Saddest, move head in disgrace
+9768 - Saddest
+9769 - 9772 - Near to sad
+9773 - 9776 - "Get away from me!", Scared
+9777 - 9779 - SCARED and pinches eyes after
+9780 - SCARED
+9781 - "Get off my lawn!"
+9782 - 9784 - "Get off my lawn!" Angrier
+9785 - 9788 - "Get off my lawn!" Angriest
+9789 - 9790 - ANGRY
+9792 - ANGRY MOVING FACE ONLY
+9793 - "Yes mastah? Yes?", Moving face front and back continously
+9802 - Sleepy
+9803 - Neutral
+9804 - Continiously blinking
+9806 - Looks one way, looks at player, then talks, *Looks at object**Looks at player*"What is that?"
+9808 - Looks at player, "What is that?"
+9811 - Looking down to the right, saying something, then looks up, like those scenes...
+9814 - Looking down to the right and saying something
+9827 - Question
+9830 - Looking at person plainly
+9831 - Looking left, says something, looks right, says something, looks like like the "Point there though"
+9835 - Wee drunk (LMFAO)
+9836 - I see all (looks both directions)
+9840 - Very jolly
+9841 - Super fun (not funny) laughing
+9842 - Muhahaha! Head moving up every "ha". EVIL
+9843 - Happy version "Get off my lawn."
+9847 - Happy, eyebrows up
+9850 - Happy
+9851 - Having alot of fun laughing
+9877 - "Please, please, please"
+9878 - Not caring stick out of tongue

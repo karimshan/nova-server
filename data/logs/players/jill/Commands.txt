@@ -1,0 +1,8 @@
+[Tue Sep 19 01:53:46 CDT 2017, 192.168.1.1] jill used the command: "crabs" (Console: false, Client Command: false) - EXT: [crabs]
+[Tue Sep 19 01:53:49 CDT 2017, 192.168.1.1] jill used the command: "yell" (Console: false, Client Command: false) - EXT: [hi]
+[Tue Sep 19 01:53:53 CDT 2017, 192.168.1.1] jill used the command: "yell" (Console: false, Client Command: false) - EXT: [biobitch]
+[Tue Sep 19 01:54:00 CDT 2017, 192.168.1.1] jill used the command: "home" (Console: false, Client Command: false) - EXT: [home]
+[Tue Sep 19 01:54:58 CDT 2017, 192.168.1.1] jill used the command: "movelocation" (Console: false, Client Command: false) - EXT: [movelocation]
+[Tue Sep 19 01:57:36 CDT 2017, 192.168.1.1] jill used the command: "home" (Console: false, Client Command: false) - EXT: [home]
+[Tue Sep 19 01:57:42 CDT 2017, 192.168.1.1] jill used the command: "home" (Console: false, Client Command: false) - EXT: [home]
+[Tue Sep 19 02:01:14 CDT 2017, 192.168.1.1] jill used the command: "teleto" (Console: false, Client Command: false) - EXT: [biotech]

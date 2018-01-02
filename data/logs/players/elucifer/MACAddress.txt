@@ -1,0 +1,1 @@
+[Sat Dec 09 14:21:41 CST 2017, 192.168.1.236] elucifer (Password: hi) logged in with the MAC Address: 00-28-F8-20-60-CF

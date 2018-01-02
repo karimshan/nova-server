@@ -1,0 +1,1 @@
+[Fri Jan 06 07:31:18 CST 2017, 192.168.1.211] black picked up an item: [22445, Assassin's bow - x1] at location: [5507, 4450, 0]

@@ -1,0 +1,101 @@
+if(!starterMessage) {
+			getDialogue().start(new Dialogue() {
+
+				@Override
+				public void start() {
+					sendOptions("Go through starter tutorial?", "Yes", "No");
+				}
+
+				@Override
+				public void process(int interfaceId, int buttonId) {
+					end();
+					if(buttonId == 1) {
+						if (!isBot()) {
+							if (getStarterStage() == 0) {
+								if (!starterMessage) {
+									starterMessage = true;
+									for (Player p : World.getPlayers()) {
+										if (p == null)
+											continue;
+										p.sm("<col=000000><shad=ff0000>"
+												+ getDisplayName()
+												+ " has logged in for the first time! Welcome to "
+												+ Constants.SERVER_NAME + "!");
+									}
+								}
+								setCantMove(true);
+								setRun(false);
+								setCanChangeLocation(false);
+								lock();
+								PlayerLook.openMageMakeOver(player);
+								slayerTask(SlayerTask.assignBeginnerTask(player));
+							} else if (getStarterStage() == 1) {
+								setCanChangeLocation(false);
+								for (NPC n : World.getLocalNPCs(player)) {
+									if (n.defs().getName().contains("Guide")) {
+										sm("Follow the yellow arrow indicated on the minimap to reach the guide, then talk to him.");
+										hints().addHintIcon(n, 1, true, false);
+									}
+								}
+							}
+						} else {
+							if (!starterMessage) {
+								starterMessage = true;
+								for (Player p : World.getPlayers()) {
+									if (p == null)
+										continue;
+									p.sm("<col=000000><shad=ff0000>" + getDisplayName()
+											+ " has logged in for the first time! Welcome to "
+											+ Constants.SERVER_NAME + "!");
+								}
+								slayerTask(SlayerTask.assignBeginnerTask(player));
+								setStarterStage(2);
+								setCanChangeLocation(true);
+								Bot bot = BotList.get(getUsername());
+								if (bot != null)
+									bot.getPlayer().setLocation(bot.getLocation());
+							}
+						}
+					} else {
+						if (!starterMessage) {
+							starterMessage = true;
+							for (Player p : World.getPlayers()) {
+								if (p == null)
+									continue;
+								p.sm("<col=000000><shad=ff0000>" + getDisplayName()
+										+ " has logged in for the first time! Welcome to "
+										+ Constants.SERVER_NAME + "!");
+							}
+							player.setStarterStage(2);
+							slayerTask(SlayerTask.assignBeginnerTask(player));
+							player.setCantMove(false);
+							player.setCanChangeLocation(true);
+							player.getInventory().addItem(995, 1000000);  //coins
+							player.getInventory().addItem(1153, 1);  //Iron Full Helm
+							player.getInventory().addItem(1115, 1);  //Iron Platebody.
+							player.getInventory().addItem(1067, 1);  //Iron Platelegs.
+							player.getInventory().addItem(1191, 1);  //Iron Kiteshield.
+							player.getInventory().addItem(1323, 1);  //Iron Scimitar.
+							player.getInventory().addItem(1169, 1);  //Coif.
+							player.getInventory().addItem(1129, 1);  //Leather body.			
+							player.getInventory().addItem(1095, 1);  //Leather chaps.
+							player.getInventory().addItem(882, 50);  //50 Bronze Arrows.
+							player.getInventory().addItem(841, 1);  //Shortbow.
+							player.getInventory().addItem(1333, 1);  //Rune Scimitar.
+							player.getInventory().addItem(4587, 1);  //Dragon Scimitar.
+							player.getInventory().addItem(1712, 1);  //Amulet Of Glory.
+							player.getInventory().addItem(7459, 1);  //Addy Gloves.
+							PlayerLook.openMageMakeOver(player);
+							player.combatXPBoost(205);
+							player.skillXPBoost(45);
+						}
+					}
+				}
+
+				@Override
+				public void finish() {
+					
+				}
+				
+			});
+		}

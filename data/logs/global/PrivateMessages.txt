@@ -1,0 +1,6 @@
+[Fri Jan 06 07:08:41 CST 2017] black private messaged Lucifer saying: "Sup"
+[Fri Jan 06 07:08:46 CST 2017] lucifer private messaged Black saying: "Yo"
+[Fri Jan 06 07:11:03 CST 2017] Black received a private message from lucifer saying: "Heueu"
+[Fri Jan 06 07:11:03 CST 2017] lucifer private messaged Black saying: "Heueu"
+[Fri Jan 06 07:11:56 CST 2017] Lucifer received a private message from black saying: "Sup ho"
+[Fri Jan 06 07:11:56 CST 2017] black private messaged Lucifer saying: "Sup ho"

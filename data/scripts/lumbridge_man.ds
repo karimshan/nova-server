@@ -1,0 +1,14 @@
+NPC=1
+options=Ask the man a question : Who are you? - How do I escape this Hell? - Who sent you!? - Is this place real? {
+	option {
+		npc : NO, I DON'T WANT TO TELL YOU - ANYTHING!
+		options=Why are you asking? : Because I want to know. - No reason. {
+			~terminate
+		}
+		npc : NO, I DON'T WANT TO TELL YOU - ANYTHING!
+		player : Easy there, tiger. - Wouldn't wanna wake the rest of the zoo.
+	}
+	option {
+		~terminate
+	}
+} ~end_options

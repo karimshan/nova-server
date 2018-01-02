@@ -1,0 +1,12 @@
+[Fri Jan 06 06:08:01 CST 2017, 192.168.1.211] black has disconnected.
+[Fri Jan 06 06:29:42 CST 2017, 192.168.1.211] black has disconnected.
+[Fri Jan 06 06:30:14 CST 2017, 192.168.1.211] black has disconnected.
+[Fri Jan 06 06:37:17 CST 2017, 192.168.1.211] black has disconnected.
+[Fri Jan 06 07:33:09 CST 2017, 192.168.1.211] black has disconnected.
+[Sat Jan 14 20:03:35 CST 2017, 192.168.1.211] black has disconnected.
+[Sat Jan 14 20:11:51 CST 2017, 192.168.1.211] black has disconnected.
+[Sat Jan 14 20:13:22 CST 2017, 192.168.1.211] black has disconnected.
+[Sat Jan 14 20:17:37 CST 2017, 192.168.1.211] black has disconnected.
+[Sat Jan 14 20:19:55 CST 2017, 192.168.1.211] black has disconnected.
+[Thu Jan 19 05:51:41 CST 2017, 192.168.1.211] black has disconnected.
+[Fri Jan 20 04:23:59 CST 2017, 192.168.1.211] black has disconnected.

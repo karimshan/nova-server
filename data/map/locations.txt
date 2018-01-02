@@ -1,0 +1,15 @@
+12850 - Lumbridge
+11828 - Falador
+11062 - Camelot
+12853 - Varrock
+10064 - Fight Caves (Exterior)
+9551 - Fight Caves (Interior)
+10547 - Ardougne
+9034 - Staff Zone
+12338 - Draynor Village
+13105 - Al Kharid
+11569 - Karamja
+11595 - Rune Essence
+12184 - Mining Guild
+13107 - Al Kharid Mine
+12342 - Edgeville

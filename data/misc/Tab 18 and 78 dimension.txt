@@ -1,0 +1,2 @@
+resize: tab 3000 78 for right of chatbox, (total size: 770 across and 105 down)
+fixed: tab 3000 18 for right of chatbox

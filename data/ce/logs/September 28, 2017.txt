@@ -1,0 +1,63 @@
+[Thu Sep 28 02:06:24 CDT 2017]: Started up the Cache Editor.
+[Thu Sep 28 02:56:44 CDT 2017]: Started up the Cache Editor.
+[Thu Sep 28 03:00:09 CDT 2017]: Cloned NPC: 14695 - Commander Zilyana
+[Thu Sep 28 03:00:15 CDT 2017]: Saved NPC: 14695 - Commander Miniana
+[Thu Sep 28 03:01:16 CDT 2017]: Saved Game Object: [64097 - Commander Zilyana] Options: [Challenge, null, null, null, null], Model IDs: [55881]
+[Thu Sep 28 03:01:27 CDT 2017]: Started up the Cache Editor.
+[Thu Sep 28 03:03:07 CDT 2017]: Cloned NPC: 14696 - K'ril Tsutsaroth
+[Thu Sep 28 03:03:18 CDT 2017]: Cloned NPC: 14696 - K'ril Tsutsaroth
+[Thu Sep 28 03:03:19 CDT 2017]: Saved NPC: 14696 - K'ril Tsutsaroth
+[Thu Sep 28 03:04:14 CDT 2017]: Saved NPC: 14696 - K'ril Tinyroth
+[Thu Sep 28 03:05:20 CDT 2017]: Cloned NPC: 14697 - Kree'arra
+[Thu Sep 28 03:05:57 CDT 2017]: Saved NPC: 14697 - Chick'arra
+[Thu Sep 28 03:07:54 CDT 2017]: Cloned NPC: 14698 - Nomad
+[Thu Sep 28 03:08:42 CDT 2017]: Saved NPC: 14698 - Bromad
+[Thu Sep 28 03:10:47 CDT 2017]: Cloned NPC: 14699 - Tormented demon
+[Thu Sep 28 03:11:26 CDT 2017]: Saved NPC: 14699 - Tormented Child
+[Thu Sep 28 03:13:03 CDT 2017]: Cloned NPC: 14700 - TzTok-Jad
+[Thu Sep 28 03:13:30 CDT 2017]: Saved NPC: 14700 - Mini Jad
+[Thu Sep 28 03:13:57 CDT 2017]: Cloned NPC: 14701 - Avatar of Destruction
+[Thu Sep 28 03:14:53 CDT 2017]: Saved NPC: 14701 - Avatar of Daycare
+[Thu Sep 28 03:15:00 CDT 2017]: Cloned NPC: 14702 - Avatar of Creation
+[Thu Sep 28 03:16:23 CDT 2017]: Saved NPC: 14702 - Avatar of Cherub
+[Thu Sep 28 03:19:56 CDT 2017]: Started up the Cache Editor.
+[Thu Sep 28 03:20:47 CDT 2017]: Cloned Item: 22750 - New Name: Corporeal Puppy - (From: 22749)
+[Thu Sep 28 03:21:09 CDT 2017]: Name: Commander Miniana, Item ID: 22750, Inventory Model ID: 55881, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:22:37 CDT 2017]: Cloned Item: 22751 - New Name: Commander Miniana - (From: 22750)
+[Thu Sep 28 03:22:54 CDT 2017]: Name: K'ril Tinyroth, Item ID: 22751, Inventory Model ID: 53192, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:23:30 CDT 2017]: Cloned Item: 22752 - New Name: K'ril Tinyroth - (From: 22751)
+[Thu Sep 28 03:23:47 CDT 2017]: Name: Chick'arra, Item ID: 22752, Inventory Model ID: 28003, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:23:58 CDT 2017]: Cloned Item: 22753 - New Name: Chick'arra - (From: 22752)
+[Thu Sep 28 03:24:10 CDT 2017]: Name: Bromad, Item ID: 22753, Inventory Model ID: 51518, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:24:20 CDT 2017]: Cloned Item: 22754 - New Name: Bromad - (From: 22753)
+[Thu Sep 28 03:24:30 CDT 2017]: Name: Tormented Child, Item ID: 22754, Inventory Model ID: 44733, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:24:38 CDT 2017]: Cloned Item: 22755 - New Name: Tormented Child - (From: 22754)
+[Thu Sep 28 03:24:52 CDT 2017]: Name: Mini Jad, Item ID: 22755, Inventory Model ID: 34131, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:25:08 CDT 2017]: Cloned Item: 22756 - New Name: Mini Jad - (From: 22755)
+[Thu Sep 28 03:25:16 CDT 2017]: Name: Avatar of Daycare, Item ID: 22756, Inventory Model ID: 45473, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:25:23 CDT 2017]: Cloned Item: 22757 - New Name: Avatar of Daycare - (From: 22756)
+[Thu Sep 28 03:25:29 CDT 2017]: Name: Avatar of Cherub, Item ID: 22757, Inventory Model ID: 45474, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:26:53 CDT 2017]: Name: Commander Miniana, Item ID: 22750, Inventory Model ID: 55881, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:27:00 CDT 2017]: Name: K'ril Tinyroth, Item ID: 22751, Inventory Model ID: 53192, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:27:23 CDT 2017]: Name: K'ril Tinyroth, Item ID: 22751, Inventory Model ID: 53192, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:30:53 CDT 2017]: Name: Bromad, Item ID: 22753, Inventory Model ID: 51518, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:31:11 CDT 2017]: Name: Bromad, Item ID: 22753, Inventory Model ID: 51518, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:31:32 CDT 2017]: Name: Bromad, Item ID: 22753, Inventory Model ID: 51518, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:31:37 CDT 2017]: Name: Tormented Child, Item ID: 22754, Inventory Model ID: 44733, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:31:40 CDT 2017]: Name: Mini Jad, Item ID: 22755, Inventory Model ID: 34131, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:31:43 CDT 2017]: Name: Mini Jad, Item ID: 22755, Inventory Model ID: 34131, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:31:46 CDT 2017]: Name: Avatar of Daycare, Item ID: 22756, Inventory Model ID: 45473, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:31:51 CDT 2017]: Name: Avatar of Cherub, Item ID: 22757, Inventory Model ID: 45474, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:32:27 CDT 2017]: Name: Tormented Child, Item ID: 22754, Inventory Model ID: 44733, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:32:31 CDT 2017]: Name: Avatar of Daycare, Item ID: 22756, Inventory Model ID: 45473, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:32:34 CDT 2017]: Name: Avatar of Cherub, Item ID: 22757, Inventory Model ID: 45474, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:32:44 CDT 2017]: Name: Mini Jad, Item ID: 22755, Inventory Model ID: 34131, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:33:11 CDT 2017]: Name: Mini Jad, Item ID: 22755, Inventory Model ID: 34131, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:33:19 CDT 2017]: Name: Tormented Child, Item ID: 22754, Inventory Model ID: 44733, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:33:24 CDT 2017]: Name: Avatar of Daycare, Item ID: 22756, Inventory Model ID: 45473, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:33:27 CDT 2017]: Name: Avatar of Cherub, Item ID: 22757, Inventory Model ID: 45474, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:34:23 CDT 2017]: Name: Tormented Child, Item ID: 22754, Inventory Model ID: 44733, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:34:35 CDT 2017]: Name: Mini Jad, Item ID: 22755, Inventory Model ID: 34131, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:34:46 CDT 2017]: Name: Tormented Child, Item ID: 22754, Inventory Model ID: 44733, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:35:15 CDT 2017]: Name: Chick'arra, Item ID: 22752, Inventory Model ID: 28003, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 
+[Thu Sep 28 03:35:36 CDT 2017]: Name: Chick'arra, Item ID: 22752, Inventory Model ID: 28003, Worn Model Id: -1, Price: 1, Inventory Options: null;null;null;null;drop;, 

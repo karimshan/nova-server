@@ -1,0 +1,1 @@
+[Tue Dec 05 14:32:55 CST 2017, 192.168.1.236] rgglucifer (Password: hi) logged in with the MAC Address: 00-28-F8-20-60-CF

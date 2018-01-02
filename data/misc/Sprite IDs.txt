@@ -1,0 +1,36 @@
+Sprites (Custom ones are 8484 and above):
+
+8484 - drill demon jogging icon
+8485 - drill demon push ups icon
+8486 - drill demon sit ups icon
+8487 - drill demon star jump icon
+8488 - RS3 Vengeance icon
+8490 - 667 Vengeance icon
+8491 - Overload icon
+8492 - Anti-poison icon
+8493 - Anti-fire icon
+8494 - Prayer renewal
+8495 - Teleblock
+8496 - Frozen / Ice Barrage
+
+
+
+Old sprites found:
+{
+	Client background: In order going from top left clockwise around: 3779, 3780, 3772, everything around that etc
+	Bounty hunter skulls: 439
+	Head icons: 440
+	Inventory tabs: 1820 and around that. 1820 replaces achievement tab 1819 replaces quest tab
+	Country flags: 1510-1530
+	Big skill icons: 1478-1503
+	Curses: 2321-2372
+	XP Counter Icon: 2730-2731, 5568-5569
+	Dungeoneering skill icon: 3028-3029, 3021-3032
+	Loading scroll bar thing idk check again its whatever shows up when rs is logging in: 4107-4114
+	Hit Icons and bars where number is displayed: 4466-4508
+	Boss pictures: 8228-8276
+	Crowns: 1455 (1455 is mod)
+}
+
+
+

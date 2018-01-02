@@ -1,0 +1,408 @@
+package org.nova.network.bot;
+
+import java.io.File;
+import java.net.InetSocketAddress;
+import java.util.Random;
+
+import org.nova.game.Location;
+import org.nova.game.player.IsaacKeyPair;
+import org.nova.game.player.Player;
+import org.nova.game.world.World;
+import org.nova.network.ServerChannelHandler;
+import org.nova.network.Session;
+import org.nova.network.bot.action.BotActionHandler;
+import org.nova.utility.loading.playerutils.SFiles;
+
+/**
+ * Represents a robot that acts as a player and can perform tasks.
+ * @author K-Shan
+ * @since 12-27-2014
+ *
+ */
+public class Bot {
+
+	ThreadCreator creator = new ThreadCreator("Bot_Thread_"+((int) new Random().nextInt()), Thread.MIN_PRIORITY);
+
+	private String username;
+	private String password;
+	private Location location;
+	private Player playerInstance;
+	private Session session;
+	
+	/**
+	 * Transient fields
+	 */
+	private transient BotActionHandler botActionHandler;
+
+	public Bot(String username, String password, Location location) {
+		this.username = username;
+		this.password = password;
+		this.location = location;
+		botActionHandler = new BotActionHandler();
+		botActionHandler.setBot(this);
+	}
+
+	public Bot connect() {
+		if(isOnline()) {
+			debug(getUsername()+" is attempting to connect twice.");
+			return null;
+		}
+		creator.newThread(new Runnable() {
+
+			@Override
+			public void run() {
+				try {
+					debug("New thread for \""+getUsername()+"\": "+creator.getName());
+					Bot bot = Bot.this;
+					bot.setSession(new Session(ServerChannelHandler.getChannel()));// for the session
+					bot.getSession().getChannel().bind(new InetSocketAddress(43594));
+					if(SFiles.containsPlayer(bot.getUsername())) {
+						SFiles.loadSerializedFile(new File("data/chars/saves/"+getUsername()+".player"));
+						setPlayerInstance(SFiles.loadPlayer(getUsername()));
+						debug("Loaded \""+bot.getUsername()+"\" from the files.");
+					} else {
+						bot.setPlayerInstance(new Player(getPassword()));
+						debug(getUsername()+" was not in the files. Creating new \""+bot.getUsername()+"\" instance..");
+					}
+					int[] seed = { (int) (Math.random() * 9999), (int) (Math.random() * 9999), 
+							(int) (Math.random() * 9999), (int) (Math.random() * 9999) };
+					bot.getPlayer().init(bot.getSession(), bot.getUsername(), 0, 15, 11, new IsaacKeyPair(seed));
+					debug("Bot connected: "+bot.getPlayer().getUsername());
+					bot.getSession().setDecoder(3, bot.getPlayer());
+					bot.getSession().setEncoder(2, bot.getPlayer());
+					if(!bot.getPlayer().isBot())
+						bot.getPlayer().setBot(true);
+					BotList.getBots().add(bot);
+					bot.getPlayer().start();
+				} catch(Exception e) {
+					e.printStackTrace();
+				}
+			}
+
+		}).start();
+		return this;
+	}
+
+	public void disconnect() {
+		if(!isOnline()) {
+			debug(getUsername()+" is already disconnected.");
+			return;
+		}
+		SFiles.savePlayer(playerInstance);
+		playerInstance.logout();
+		playerInstance.finish();
+		BotList.getBots().remove(this);
+		debug(this.getUsername()+" has been disconnected from the game.");
+	}
+
+	@Override
+	public String toString() {
+		if(getSession() != null)
+			return "["+getUsername()+", "+getPassword()+", "+getSession().getIP()+"]";
+		else
+			return "["+getUsername()+" : "+getPassword()+"]";
+	}
+
+	public String getRandomIPAddress() {
+		Random r = new Random();
+		return r.nextInt(255)+"."+r.nextInt(255)+"."+r.nextInt(255)+"."+r.nextInt(255);
+	}
+
+	public void debug(String s) {
+		System.out.println("[Bot Loader] "+s);
+	}
+
+	public Player getPlayer() {
+		return playerInstance;
+	}
+
+	public void setPlayerInstance(Player player) {
+		this.playerInstance = player;
+	}
+
+	public String getUsername() {
+		return username;
+	}
+
+	public String getPassword() {
+		return password;
+	}
+
+	public Location getLocation() {
+		return location;
+	}
+
+	public Session getSession() {
+		return session;
+	}
+
+	public void setSession(Session session) {
+		this.session = session;
+	}
+	
+	public boolean isOnline() {
+		return World.containsPlayer(getUsername());
+	}
+
+	public BotActionHandler getBotActionHandler() {
+		return botActionHandler;
+	}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+
+
+					Socket socket = new Socket();
+					socket.connect(new InetSocketAddress("127.0.0.1", 43594), 5000);
+					socket.setSoTimeout(5000);
+					socket.setTcpNoDelay(true);
+
+
+
+if(message.contains("hey")) {
+for(final Player p : World.getLocalPlayers(player)) {
+	if(p == null)
+		continue;
+	if(p.isBot()) {
+		World.submit(new GameTick(1.5) {
+			@Override
+			public void run() {
+				p.publicChat("Hey what's up bruh");
+				stop();
+			}
+
+		});
+	}
+}
+} else if(message.contains("follow me")) {
+for(final Player p : World.getLocalPlayers(player)) {
+	if(p == null)
+		continue;
+	if(p.isBot()) {
+		World.submit(new GameTick(1.5) {
+			@Override
+			public void run() {
+				if(p.getAttackedByDelay() > 0 && p.getTemporaryAttribute("followingQueue") == null) {
+					p.setTemporaryAttribute("followingQueue", player);
+					p.publicChat("Hold on dude, after I finish killing this.");
+					stop();
+				} else if(p.getAttackedByDelay() <= 0) {
+					p.stopAll(false);
+					p.removeTemporaryAttribute("followingQueue");
+					p.publicChat("Alright, what do you want?");
+					p.getActionManager().setAction(new PlayerFollow(player));
+					stop();
+				}
+
+			}
+
+		});
+	}
+}
+} 
+else if(message.contains("kill a crab")) {
+for(final Player p : World.getLocalPlayers(player)) {
+	if(p == null)
+		continue;
+	if(p.isBot()) {
+		final NPC n = World.findNPC(1265);
+		World.submit(new GameTick(1.5) {
+			@Override
+			public void run() {
+				p.stopAll(false);
+				if(n != null) {
+					p.publicChat("Good idea, I need to raise some stats anyway.");
+					p.addWalkSteps(n.getX(), n.getY());
+					p.face(n);
+				}
+				if(p.withinDistance(n)) {
+					stop();
+					p.stopAll();
+					p.getActionManager().setAction(new PlayerCombat(n));
+				}
+			}
+
+		});
+	}
+}
+} else if(Case.contains("combat lvls?", message)) {
+for(final Player p : World.getLocalPlayers(player)) {
+	if(p == null)
+		continue;
+	if(p.isBot()) {
+		World.submit(new GameTick(1.5) {
+			@Override
+			public void run() {
+				stop();
+				p.publicChat("I got "+p.skills().getLevel(Skills.ATTACK)+" attack,"
+					+ " "+p.skills().getLevel(Skills.STRENGTH)+" str,"
+					+ " "+p.skills().getLevel(Skills.DEFENCE)+" def,"
+					+ " "+p.skills().getLevel(Skills.HITPOINTS)+" hp,"
+					+ " "+p.skills().getLevel(Skills.RANGE)+" range,"
+					+ " "+p.skills().getLevel(Skills.MAGIC)+" mage,"
+					+ " "+p.skills().getLevel(Skills.PRAYER)+" pray, and"
+					+ " "+p.skills().getLevel(Skills.SUMMONING)+" summon.");
+			}
+
+		});
+	}
+}
+} else if(Case.contains("train def", message)) {
+for(final Player p : World.getLocalPlayers(player)) {
+	if(p == null)
+		continue;
+	if(p.isBot()) {
+		World.submit(new GameTick(1.5) {
+			@Override
+			public void run() {
+				stop();
+				p.publicChat("Ok, that sounds good.");
+				p.getCombatDefinitions().setAttackStyle(3);
+			}
+
+		});
+	}
+}
+}
+else if(Case.contains("train str", message)) {
+for(final Player p : World.getLocalPlayers(player)) {
+	if(p == null)
+		continue;
+	if(p.isBot()) {
+		World.submit(new GameTick(1.5) {
+			@Override
+			public void run() {
+				stop();
+				p.publicChat("You're right, thanks for the suggestion.");
+				p.getCombatDefinitions().setAttackStyle(1);
+			}
+
+		});
+	}
+}
+}
+
+else if(Case.contains("slayer task", message)) {
+for(final Player p : World.getLocalPlayers(player)) {
+	if(p == null)
+		continue;
+	if(p.isBot()) {
+		World.submit(new GameTick(1.5) {
+			@Override
+			public void run() {
+				stop();
+				if(!p.slayerTask().completed())
+					p.publicChat("Ugh, it's sooo annoying, I got "+p.slayerTask().amountLeft()+" more "+p.slayerTask().monsterName().toLowerCase()+"s left -.-");
+				else if(p.slayerTask() == null)
+					p.publicChat("Ah, I don't have a slayer task atm.");
+				else if(p.slayerTask().completed())
+					p.publicChat("My slayer task is complete!! W00t!");
+			}
+
+		});
+	}
+}
+}
+else if(Case.contains("train att", message)) {
+for(final Player p : World.getLocalPlayers(player)) {
+	if(p == null)
+		continue;
+	if(p.isBot()) {
+		World.submit(new GameTick(1.5) {
+			@Override
+			public void run() {
+				stop();
+				p.publicChat("Okay, will do!");
+				p.getCombatDefinitions().setAttackStyle(0);
+			}
+
+		});
+	}
+}
+}
+else if(message.contains("trade me")) {
+for(final Player p : World.getLocalPlayers(player)) {
+	if(p == null)
+		continue;
+	if(p.isBot()) {
+		World.submit(new GameTick(1.5) {
+			int ticks;
+			@Override
+			public void run() {
+				ticks++;
+				if(ticks == 1) {
+					p.publicChat("Sec");
+					p.stopAll(false);
+					p.addWalkSteps(player.getX() - 1, player.getY());
+				} else if(ticks == 3) {
+					if ((player.getTemporaryAttributtes().get("receivedTradeRequest") == Boolean.TRUE
+							&& (Integer) player.getTemporaryAttributtes().get(
+									"tradingWith") == p.getIndex()) ||
+									(p.getTemporaryAttributtes().get("receivedTradeRequest") == Boolean.TRUE
+									&& (Integer) p.getTemporaryAttributtes().get(
+											"tradingWith") == player.getIndex())) {
+						if (p.getLocation().getX() == player.getLocation().getX()
+								&& p.getLocation().getY() == player.getLocation()
+										.getY()) {
+							p.sendMessage("You can't trade in this position.");
+							p.getTrade().finish();
+							return;
+						}
+						Trade session = new Trade(p, player);
+						p.setTrade(session);
+						player.setTrade(session);
+						session.start();
+					} else {
+						if (p.getLocation().getX() == player.getLocation().getX()
+								&& p.getLocation().getY() == player.getLocation()
+										.getY()) {
+							p.sendMessage("You can't trade in this position.");
+							return;
+						}
+						p.packets().sendMessage("Sending "+player.getDisplayName().toLowerCase()+" a trade request...");
+						player.packets().sendTradeRequestMessage(p);
+						player.getTemporaryAttributtes().put("receivedTradeRequest",
+								Boolean.TRUE);
+						player.getTemporaryAttributtes().put("tradingWith",
+								p.getIndex());
+						p.getTemporaryAttributtes().put("tradingWith",
+								player.getIndex());
+						p.stopAll(false);
+					}
+					stop();
+				}
+			}
+
+		});
+	}
+}
+}
+
+ */

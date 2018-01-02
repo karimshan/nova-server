@@ -1,0 +1,122 @@
+[Mon Jan 09 00:07:33 CST 2017]: Packed new model from the file: "65985.dat" and the new Model ID is: 65985
+[Mon Jan 09 00:07:33 CST 2017]: Finished packing all the models in the directory: C:\Users\Karimshan\Documents\RSPS References\Models\tri particle triangle/
+[Mon Jan 09 00:10:16 CST 2017]: Packed new model from the file: "65985.dat" and the new Model ID is: 65985
+[Mon Jan 09 00:10:16 CST 2017]: Finished packing all the models in the directory: C:\Users\Karimshan\Documents\RSPS References\Models\tri particle triangle/
+[Mon Jan 09 00:11:43 CST 2017]: Packed new model from the file: "65985.dat" and the new Model ID is: 65985
+[Mon Jan 09 00:11:43 CST 2017]: Finished packing all the models in the directory: C:\Users\Karimshan\Documents\RSPS References\Models\tri particle triangle/
+[Mon Jan 09 00:13:32 CST 2017]: Packed new model from the file: "65985.dat" and the new Model ID is: 65985
+[Mon Jan 09 00:13:32 CST 2017]: Finished packing all the models in the directory: C:\Users\Karimshan\Documents\RSPS References\Models\tri particle triangle/
+[Mon Jan 09 00:15:53 CST 2017]: Packed new model from the file: "65985.dat" and the new Model ID is: 65985
+[Mon Jan 09 00:15:53 CST 2017]: Finished packing all the models in the directory: C:\Users\Karimshan\Documents\RSPS References\Models\tri particle triangle/
+[Mon Jan 09 00:17:04 CST 2017]: Packed new model from the file: "65985.dat" and the new Model ID is: 65985
+[Mon Jan 09 00:17:04 CST 2017]: Finished packing all the models in the directory: C:\Users\Karimshan\Documents\RSPS References\Models\tri particle triangle/
+[Mon Jan 09 00:21:48 CST 2017]: Name: White tri-abyssal whip, Item ID: 22674, Inventory Model ID: 65980, Worn Model Id: 65981, Price: 1,200,000,000, Inventory Options: null;Wield;null;null;drop;, 
+[Mon Jan 09 00:22:05 CST 2017]: Name: Yellow tri-abyssal whip, Item ID: 22675, Inventory Model ID: 65983, Worn Model Id: 65984, Price: 1,200,000,000, Inventory Options: null;Wield;Charge;null;drop;, 
+[Mon Jan 09 00:22:51 CST 2017]: Name: Red tri-abyssal whip, Item ID: 22676, Inventory Model ID: 65986, Worn Model Id: 65987, Price: 1,200,000,000, Inventory Options: null;Wield;Charge;null;drop;, 
+[Mon Jan 09 00:23:10 CST 2017]: Name: Green tri-abyssal whip, Item ID: 22677, Inventory Model ID: 65989, Worn Model Id: 65990, Price: 1,200,000,000, Inventory Options: null;Wield;Charge;null;drop;, 
+[Mon Jan 09 00:23:18 CST 2017]: Name: Blue tri-abyssal whip, Item ID: 22678, Inventory Model ID: 65992, Worn Model Id: 65993, Price: 1,200,000,000, Inventory Options: null;Wield;Charge;null;drop;, 
+[Mon Jan 09 00:23:29 CST 2017]: Name: Red vine whip, Item ID: 22669, Inventory Model ID: 65965, Worn Model Id: 65966, Price: 8,000,000, Inventory Options: null;Wield;Split;null;drop;, 
+[Mon Jan 09 00:23:43 CST 2017]: Name: Yellow vine whip, Item ID: 22670, Inventory Model ID: 65968, Worn Model Id: 65969, Price: 270,000, Inventory Options: null;Wield;Split;null;drop;, 
+[Mon Jan 09 00:23:50 CST 2017]: Name: Blue vine whip, Item ID: 22671, Inventory Model ID: 65971, Worn Model Id: 65972, Price: 270,000, Inventory Options: null;Wield;Split;null;drop;, 
+[Mon Jan 09 00:23:57 CST 2017]: Name: White vine whip, Item ID: 22672, Inventory Model ID: 65974, Worn Model Id: 65975, Price: 270,000, Inventory Options: null;Wield;Split;null;drop;, 
+[Mon Jan 09 00:24:05 CST 2017]: Name: Green vine whip, Item ID: 22673, Inventory Model ID: 65977, Worn Model Id: 65978, Price: 270,000, Inventory Options: null;Wield;Split;null;drop;, 
+[Mon Jan 09 00:25:43 CST 2017]: Name: Red abyssal whip, Item ID: 22664, Inventory Model ID: 65950, Worn Model Id: 65951, Price: 1, Inventory Options: null;Wield;null;null;drop;, 
+[Mon Jan 09 00:25:50 CST 2017]: Name: Yellow abyssal whip, Item ID: 22665, Inventory Model ID: 65953, Worn Model Id: 65954, Price: 15,000,000, Inventory Options: null;Wield;null;null;drop;, 
+[Mon Jan 09 00:25:58 CST 2017]: Name: Blue abyssal whip, Item ID: 22666, Inventory Model ID: 65956, Worn Model Id: 65957, Price: 20,000,000, Inventory Options: null;Wield;null;null;drop;, 
+[Mon Jan 09 00:26:08 CST 2017]: Name: White abyssal whip, Item ID: 22667, Inventory Model ID: 65959, Worn Model Id: 65960, Price: 25,000,000, Inventory Options: null;Wield;null;null;drop;, 
+[Mon Jan 09 00:26:14 CST 2017]: Name: Green abyssal whip, Item ID: 22668, Inventory Model ID: 65962, Worn Model Id: 65963, Price: 45,000,000, Inventory Options: null;Wield;null;null;drop;, 
+[Mon Jan 09 00:44:49 CST 2017]: Packed new model from the file: "65952.dat" and the new Model ID is: 65952
+[Mon Jan 09 00:44:53 CST 2017]: Packed new model from the file: "65955.dat" and the new Model ID is: 65955
+[Mon Jan 09 00:44:58 CST 2017]: Packed new model from the file: "65958.dat" and the new Model ID is: 65958
+[Mon Jan 09 00:45:01 CST 2017]: Packed new model from the file: "65961.dat" and the new Model ID is: 65961
+[Mon Jan 09 00:45:05 CST 2017]: Packed new model from the file: "65964.dat" and the new Model ID is: 65964
+[Mon Jan 09 00:45:09 CST 2017]: Packed new model from the file: "65967.dat" and the new Model ID is: 65967
+[Mon Jan 09 00:45:12 CST 2017]: Packed new model from the file: "65970.dat" and the new Model ID is: 65970
+[Mon Jan 09 00:45:16 CST 2017]: Packed new model from the file: "65973.dat" and the new Model ID is: 65973
+[Mon Jan 09 00:45:20 CST 2017]: Packed new model from the file: "65976.dat" and the new Model ID is: 65976
+[Mon Jan 09 00:45:23 CST 2017]: Packed new model from the file: "65979.dat" and the new Model ID is: 65979
+[Mon Jan 09 00:45:27 CST 2017]: Packed new model from the file: "65982.dat" and the new Model ID is: 65982
+[Mon Jan 09 00:45:30 CST 2017]: Packed new model from the file: "65985.dat" and the new Model ID is: 65985
+[Mon Jan 09 00:45:35 CST 2017]: Packed new model from the file: "65988.dat" and the new Model ID is: 65988
+[Mon Jan 09 00:45:39 CST 2017]: Packed new model from the file: "65991.dat" and the new Model ID is: 65991
+[Mon Jan 09 00:45:43 CST 2017]: Packed new model from the file: "65994.dat" and the new Model ID is: 65994
+[Mon Jan 09 00:45:43 CST 2017]: Finished packing all the models in the directory: C:\Users\Karimshan\Documents\RSPS References\Models\tri particle triangle/
+[Mon Jan 09 00:50:49 CST 2017]: Packed new model from the file: "65952.dat" and the new Model ID is: 65952
+[Mon Jan 09 00:50:53 CST 2017]: Packed new model from the file: "65967.dat" and the new Model ID is: 65967
+[Mon Jan 09 00:50:57 CST 2017]: Packed new model from the file: "65988.dat" and the new Model ID is: 65988
+[Mon Jan 09 00:50:57 CST 2017]: Finished packing all the models in the directory: C:\Users\Karimshan\Documents\RSPS References\Models/
+[Mon Jan 09 00:52:44 CST 2017]: Packed new model from the file: "65952.dat" and the new Model ID is: 65952
+[Mon Jan 09 00:52:44 CST 2017]: Finished packing all the models in the directory: C:\Users\Karimshan\Documents\RSPS References\Models/
+[Mon Jan 09 00:54:03 CST 2017]: Packed new model from the file: "65952.dat" and the new Model ID is: 65952
+[Mon Jan 09 00:54:03 CST 2017]: Finished packing all the models in the directory: C:\Users\Karimshan\Documents\RSPS References\Models/
+[Mon Jan 09 00:55:38 CST 2017]: Packed new model from the file: "65952.dat" and the new Model ID is: 65952
+[Mon Jan 09 00:55:38 CST 2017]: Finished packing all the models in the directory: C:\Users\Karimshan\Documents\RSPS References\Models/
+[Mon Jan 09 00:57:15 CST 2017]: Packed new model from the file: "65952.dat" and the new Model ID is: 65952
+[Mon Jan 09 00:57:15 CST 2017]: Finished packing all the models in the directory: C:\Users\Karimshan\Documents\RSPS References\Models/
+[Mon Jan 09 00:57:55 CST 2017]: Packed new model from the file: "65952.dat" and the new Model ID is: 65952
+[Mon Jan 09 00:57:55 CST 2017]: Finished packing all the models in the directory: C:\Users\Karimshan\Documents\RSPS References\Models/
+[Mon Jan 09 01:00:10 CST 2017]: Packed new model from the file: "65952.dat" and the new Model ID is: 65952
+[Mon Jan 09 01:00:15 CST 2017]: Packed new model from the file: "65967.dat" and the new Model ID is: 65967
+[Mon Jan 09 01:00:19 CST 2017]: Packed new model from the file: "65988.dat" and the new Model ID is: 65988
+[Mon Jan 09 01:00:19 CST 2017]: Finished packing all the models in the directory: C:\Users\Karimshan\Documents\RSPS References\Models/
+[Mon Jan 09 01:12:58 CST 2017]: Started up the Cache Editor.
+[Mon Jan 09 01:13:47 CST 2017]: The Model ID of the packed model from the file "single triangle.dat" is: 66129
+[Mon Jan 09 01:14:22 CST 2017]: The Model ID of the packed model from the file "three triangles.dat" is: 66130
+[Mon Jan 09 01:14:35 CST 2017]: The Model ID of the packed model from the file "single tri face upb.dat" is: 66131
+[Mon Jan 09 01:14:52 CST 2017]: Name: Single part tri sword, Item ID: 22745, Inventory Model ID: 0, Worn Model Id: 66129, Price: 1, Inventory Options: null;Wear;null;null;drop;, 
+[Mon Jan 09 01:14:56 CST 2017]: Cloned: 22746 - Single part tri sword
+[Mon Jan 09 01:15:05 CST 2017]: Name: Triple part tri sword, Item ID: 22746, Inventory Model ID: 0, Worn Model Id: 66130, Price: 1, Inventory Options: null;Wear;null;null;drop;, 
+[Mon Jan 09 01:15:10 CST 2017]: Cloned: 22747 - Triple part tri sword
+[Mon Jan 09 01:15:26 CST 2017]: Name: Test particle sword, Item ID: 22747, Inventory Model ID: 0, Worn Model Id: 66131, Price: 1, Inventory Options: null;Wear;null;null;drop;, 
+[Mon Jan 09 01:21:22 CST 2017]: Packed new model from the file: "66131.dat" and the new Model ID is: 66131
+[Mon Jan 09 01:21:22 CST 2017]: Finished packing all the models in the directory: C:\Users\Karimshan\Documents\RSPS References\Models\particle triangles/
+[Mon Jan 09 01:22:09 CST 2017]: Packed new model from the file: "66131.dat" and the new Model ID is: 66131
+[Mon Jan 09 01:22:09 CST 2017]: Finished packing all the models in the directory: C:\Users\Karimshan\Documents\RSPS References\Models\particle triangles/
+[Mon Jan 09 01:22:56 CST 2017]: Packed new model from the file: "66131.dat" and the new Model ID is: 66131
+[Mon Jan 09 01:22:56 CST 2017]: Finished packing all the models in the directory: C:\Users\Karimshan\Documents\RSPS References\Models\particle triangles/
+[Mon Jan 09 01:24:08 CST 2017]: Packed new model from the file: "66131.dat" and the new Model ID is: 66131
+[Mon Jan 09 01:24:08 CST 2017]: Finished packing all the models in the directory: C:\Users\Karimshan\Documents\RSPS References\Models\particle triangles/
+[Mon Jan 09 01:26:42 CST 2017]: Packed new model from the file: "66131.dat" and the new Model ID is: 66131
+[Mon Jan 09 01:26:42 CST 2017]: Finished packing all the models in the directory: C:\Users\Karimshan\Documents\RSPS References\Models\particle triangles/
+[Mon Jan 09 01:27:28 CST 2017]: Packed new model from the file: "66131.dat" and the new Model ID is: 66131
+[Mon Jan 09 01:27:28 CST 2017]: Finished packing all the models in the directory: C:\Users\Karimshan\Documents\RSPS References\Models\particle triangles/
+[Mon Jan 09 01:28:11 CST 2017]: Packed new model from the file: "66131.dat" and the new Model ID is: 66131
+[Mon Jan 09 01:28:11 CST 2017]: Finished packing all the models in the directory: C:\Users\Karimshan\Documents\RSPS References\Models\particle triangles/
+[Mon Jan 09 01:29:51 CST 2017]: Packed new model from the file: "66131.dat" and the new Model ID is: 66131
+[Mon Jan 09 01:29:51 CST 2017]: Finished packing all the models in the directory: C:\Users\Karimshan\Documents\RSPS References\Models\particle triangles/
+[Mon Jan 09 01:30:38 CST 2017]: Packed new model from the file: "66131.dat" and the new Model ID is: 66131
+[Mon Jan 09 01:30:38 CST 2017]: Finished packing all the models in the directory: C:\Users\Karimshan\Documents\RSPS References\Models\particle triangles/
+[Mon Jan 09 01:31:40 CST 2017]: Packed new model from the file: "66131.dat" and the new Model ID is: 66131
+[Mon Jan 09 01:31:40 CST 2017]: Finished packing all the models in the directory: C:\Users\Karimshan\Documents\RSPS References\Models\particle triangles/
+[Mon Jan 09 01:32:21 CST 2017]: Packed new model from the file: "66131.dat" and the new Model ID is: 66131
+[Mon Jan 09 01:32:21 CST 2017]: Finished packing all the models in the directory: C:\Users\Karimshan\Documents\RSPS References\Models\particle triangles/
+[Mon Jan 09 01:32:54 CST 2017]: Packed new model from the file: "66131.dat" and the new Model ID is: 66131
+[Mon Jan 09 01:32:54 CST 2017]: Finished packing all the models in the directory: C:\Users\Karimshan\Documents\RSPS References\Models\particle triangles/
+[Mon Jan 09 01:36:33 CST 2017]: Packed new model from the file: "66131.dat" and the new Model ID is: 66131
+[Mon Jan 09 01:36:33 CST 2017]: Finished packing all the models in the directory: C:\Users\Karimshan\Documents\RSPS References\Models\particle triangles/
+[Mon Jan 09 01:41:18 CST 2017]: Started up the Cache Editor.
+[Mon Jan 09 01:41:26 CST 2017]: Removed Item: 22747 - Test particle sword
+[Mon Jan 09 01:41:28 CST 2017]: Removed Item: 22746 - Triple part tri sword
+[Mon Jan 09 01:41:30 CST 2017]: Removed Item: 22745 - Single part tri sword
+[Mon Jan 09 01:42:38 CST 2017]: Model Packing revealed 3 nulled models in your cache.
+[Mon Jan 09 01:42:38 CST 2017]: The nulled models are: [66129, 66130, 66131]
+[Mon Jan 09 01:47:28 CST 2017]: Started up the Cache Editor.
+[Mon Jan 09 01:53:48 CST 2017]: Started up the Cache Editor.
+[Mon Jan 09 01:53:58 CST 2017]: Saved model: 66126 from the cache: C:\Users\Karimshan\Google Drive\RSPS\Nova 667\Nova Core\data\cache//
+[Mon Jan 09 01:53:58 CST 2017]: Saved model: 66127 from the cache: C:\Users\Karimshan\Google Drive\RSPS\Nova 667\Nova Core\data\cache//
+[Mon Jan 09 01:53:58 CST 2017]: Saved model: 66128 from the cache: C:\Users\Karimshan\Google Drive\RSPS\Nova 667\Nova Core\data\cache//
+[Mon Jan 09 01:55:06 CST 2017]: Started up the Cache Editor.
+[Mon Jan 09 01:55:15 CST 2017]: Saved model: 66126 from the cache: C:\Users\Karimshan\Google Drive\RSPS\Nova 667\Nova Core\data\cache//
+[Mon Jan 09 01:55:15 CST 2017]: Saved model: 66127 from the cache: C:\Users\Karimshan\Google Drive\RSPS\Nova 667\Nova Core\data\cache//
+[Mon Jan 09 01:55:15 CST 2017]: Saved model: 66128 from the cache: C:\Users\Karimshan\Google Drive\RSPS\Nova 667\Nova Core\data\cache//
+[Mon Jan 09 01:57:58 CST 2017]: Started up the Cache Editor.
+[Mon Jan 09 01:58:06 CST 2017]: Saved model: 66126 ("66126 - Inv ID") from the cache: C:\Users\Karimshan\Google Drive\RSPS\Nova 667\Nova Core\data\cache//
+[Mon Jan 09 01:58:06 CST 2017]: Saved model: 66127 ("66127 - M1 ID") from the cache: C:\Users\Karimshan\Google Drive\RSPS\Nova 667\Nova Core\data\cache//
+[Mon Jan 09 01:58:06 CST 2017]: Saved model: 66128 ("66128 - F1 ID") from the cache: C:\Users\Karimshan\Google Drive\RSPS\Nova 667\Nova Core\data\cache//
+[Mon Jan 09 02:12:15 CST 2017]: Started up the Cache Editor.
+[Mon Jan 09 02:12:23 CST 2017]: Model Packing revealed 3 nulled models in your cache.
+[Mon Jan 09 02:12:23 CST 2017]: The nulled models are: [66129, 66130, 66131]
+[Mon Jan 09 02:12:46 CST 2017]: The Model ID of the packed model from the file "66127.dat" is: 66127
+[Mon Jan 09 02:14:43 CST 2017]: The Model ID of the packed model from the file "66127 - M1 ID.dat" is: 66127
+[Mon Jan 09 05:11:33 CST 2017]: Started up the Cache Editor.
+[Mon Jan 09 14:15:55 CST 2017]: Started up the Cache Editor.

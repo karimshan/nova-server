@@ -1,0 +1,10 @@
+NPC=7820
+npc : Oh hey there. I was just exploring my french horn. - It's so interesting how shiny the insides of it are. - Would you like to join me?
+player : I'd rather not... - But I would however love to see the inside - of Al kharid. Do you know anything about that place?
+npc : Ah yes, Al Kharid!
+npc : Al Kharid used to be an amazing place, and - I'd love to tell you all about it - but I need to go right now.
+player : Oh, okay. - I'll come back later then?
+npc : Yes, that's fine. I'll see you later!
+player : But wait, what if I need you right now!
+npc : I'm sorry.
+options= egy - h - h

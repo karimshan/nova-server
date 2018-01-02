@@ -1,0 +1,4 @@
+@echo off
+title Dialogue Creator
+java -Xmx250m -cp out;data/libraries/*; org.nova.kshan.tools.dialoguecreator.DialogueCreator
+pause

@@ -1,0 +1,262 @@
+[Sat Jan 14 00:05:34 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 00:05:42 CST 2017]: Cloned: 22760 - Modded fire cape
+[Sat Jan 14 00:05:47 CST 2017]: Name: Modded fire cape, Item ID: 22760, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 00:05:51 CST 2017]: Cloned: 22761 - Modded fire cape
+[Sat Jan 14 00:05:57 CST 2017]: Name: Modded fire cape, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 00:05:59 CST 2017]: Name: Modded fire cape, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 03:39:32 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 03:57:32 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 03:59:27 CST 2017]: Saved model: 66009 ("66009 - Inv ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Sat Jan 14 03:59:32 CST 2017]: Deleted model after making backup: "66009" from item: [22686 - monster legs wear real]
+[Sat Jan 14 03:59:32 CST 2017]: Saved model: 66010 ("66010 - M1 ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Sat Jan 14 03:59:35 CST 2017]: Deleted model after making backup: "66010" from item: [22686 - monster legs wear real]
+[Sat Jan 14 04:00:34 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 04:00:48 CST 2017]: Model Packing revealed 6 nulled models in your cache.
+[Sat Jan 14 04:00:48 CST 2017]: The nulled models are: [66009, 66010, 66129, 66130, 66131, 66132]
+[Sat Jan 14 04:03:22 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 04:06:25 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 04:06:33 CST 2017]: Model Packing revealed 6 nulled models in your cache.
+[Sat Jan 14 04:06:33 CST 2017]: The nulled models are: [66009, 66010, 66129, 66130, 66131, 66132]
+[Sat Jan 14 04:07:13 CST 2017]: Deleted model after making backup: "66009" from item: [22686 - monster legs wear real]
+[Sat Jan 14 04:07:14 CST 2017]: Deleted model after making backup: "66010" from item: [22686 - monster legs wear real]
+[Sat Jan 14 04:07:16 CST 2017]: Deleted model after making backup: "66010" from item: [22686 - monster legs wear real]
+[Sat Jan 14 04:07:16 CST 2017]: Removed Item: 22686 - monster legs wear real
+[Sat Jan 14 04:08:01 CST 2017]: Saved model: 66007 ("66007 - Inv ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Sat Jan 14 04:08:06 CST 2017]: Deleted model after making backup: "66007" from item: [22685 - monster legs wear]
+[Sat Jan 14 04:08:06 CST 2017]: Saved model: 66008 ("66008 - M1 ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Sat Jan 14 04:08:09 CST 2017]: Deleted model after making backup: "66008" from item: [22685 - monster legs wear]
+[Sat Jan 14 04:08:12 CST 2017]: Deleted model after making backup: "66008" from item: [22685 - monster legs wear]
+[Sat Jan 14 04:08:12 CST 2017]: Removed Item: 22685 - monster legs wear
+[Sat Jan 14 04:09:02 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 04:09:16 CST 2017]: Saved model: 66005 ("66005 - Inv ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Sat Jan 14 04:09:20 CST 2017]: Deleted model after making backup: "66005" from item: [22684 - monster plate drop]
+[Sat Jan 14 04:09:20 CST 2017]: Saved model: 66006 ("66006 - M1 ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Sat Jan 14 04:09:24 CST 2017]: Deleted model after making backup: "66006" from item: [22684 - monster plate drop]
+[Sat Jan 14 04:09:24 CST 2017]: Removed Item: 22684 - monster plate drop
+[Sat Jan 14 04:09:34 CST 2017]: Saved model: 66003 ("66003 - Inv ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Sat Jan 14 04:09:38 CST 2017]: Deleted model after making backup: "66003" from item: [22683 - monster plate wear]
+[Sat Jan 14 04:09:38 CST 2017]: Saved model: 66004 ("66004 - M1 ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Sat Jan 14 04:09:41 CST 2017]: Deleted model after making backup: "66004" from item: [22683 - monster plate wear]
+[Sat Jan 14 04:09:41 CST 2017]: Removed Item: 22683 - monster plate wear
+[Sat Jan 14 04:09:47 CST 2017]: Saved model: 66001 ("66001 - Inv ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Sat Jan 14 04:09:50 CST 2017]: Deleted model after making backup: "66001" from item: [22682 - monster whip drop]
+[Sat Jan 14 04:09:50 CST 2017]: Saved model: 66002 ("66002 - M1 ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Sat Jan 14 04:09:54 CST 2017]: Deleted model after making backup: "66002" from item: [22682 - monster whip drop]
+[Sat Jan 14 04:09:54 CST 2017]: Removed Item: 22682 - monster whip drop
+[Sat Jan 14 04:09:59 CST 2017]: Saved model: 65999 ("65999 - Inv ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Sat Jan 14 04:10:03 CST 2017]: Deleted model after making backup: "65999" from item: [22681 - monster whip wear]
+[Sat Jan 14 04:10:03 CST 2017]: Saved model: 66000 ("66000 - M1 ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Sat Jan 14 04:10:06 CST 2017]: Deleted model after making backup: "66000" from item: [22681 - monster whip wear]
+[Sat Jan 14 04:10:06 CST 2017]: Removed Item: 22681 - monster whip wear
+[Sat Jan 14 04:10:16 CST 2017]: Saved model: 65997 ("65997 - Inv ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Sat Jan 14 04:10:19 CST 2017]: Deleted model after making backup: "65997" from item: [22680 - monster helm drop]
+[Sat Jan 14 04:10:19 CST 2017]: Saved model: 65998 ("65998 - M1 ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Sat Jan 14 04:10:23 CST 2017]: Deleted model after making backup: "65998" from item: [22680 - monster helm drop]
+[Sat Jan 14 04:10:23 CST 2017]: Removed Item: 22680 - monster helm drop
+[Sat Jan 14 04:10:26 CST 2017]: Saved model: 65995 ("65995 - Inv ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Sat Jan 14 04:10:30 CST 2017]: Deleted model after making backup: "65995" from item: [22679 - monster helm wear]
+[Sat Jan 14 04:10:30 CST 2017]: Saved model: 65996 ("65996 - M1 ID") from the cache: C:\Users\Karimshan\Google Drive\Nova 667\Nova Core\data\cache//
+[Sat Jan 14 04:10:34 CST 2017]: Deleted model after making backup: "65996" from item: [22679 - monster helm wear]
+[Sat Jan 14 04:10:34 CST 2017]: Removed Item: 22679 - monster helm wear
+[Sat Jan 14 04:11:49 CST 2017]: Name: True Master Slayer Cape, Item ID: 22687, Inventory Model ID: 66013, Worn Model Id: 66012, Price: 150,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 04:11:58 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 04:12:09 CST 2017]: Removed Item: 22688 - slayer cape drop
+[Sat Jan 14 04:12:25 CST 2017]: Name: Master Slayer Boots, Item ID: 22689, Inventory Model ID: 66015, Worn Model Id: 66016, Price: 0, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 04:12:32 CST 2017]: Name: Master Slayer Boots, Item ID: 22689, Inventory Model ID: 66015, Worn Model Id: 66016, Price: 0, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 04:20:55 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 04:45:42 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 04:45:50 CST 2017]: Model Packing revealed 20 nulled models in your cache.
+[Sat Jan 14 04:45:50 CST 2017]: The nulled models are: [65995, 65996, 65997, 65998, 65999, 66000, 66001, 66002, 66003, 66004, 66005, 66006, 66007, 66008, 66009, 66010, 66129, 66130, 66131, 66132]
+[Sat Jan 14 04:46:11 CST 2017]: Removed Item: 22679 - null
+[Sat Jan 14 04:46:15 CST 2017]: Removed Item: 22680 - null
+[Sat Jan 14 04:46:20 CST 2017]: Removed Item: 22681 - null
+[Sat Jan 14 04:46:23 CST 2017]: Removed Item: 22682 - null
+[Sat Jan 14 04:46:26 CST 2017]: Removed Item: 22683 - null
+[Sat Jan 14 04:46:28 CST 2017]: Removed Item: 22684 - null
+[Sat Jan 14 04:46:31 CST 2017]: Removed Item: 22685 - null
+[Sat Jan 14 04:46:34 CST 2017]: Removed Item: 22686 - null
+[Sat Jan 14 04:46:37 CST 2017]: Removed Item: 22688 - null
+[Sat Jan 14 04:46:41 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 04:46:50 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 04:49:42 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 04:49:56 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 04:50:02 CST 2017]: Model Packing revealed 19 nulled models in your cache.
+[Sat Jan 14 04:50:02 CST 2017]: The nulled models are: [65995, 65996, 65997, 65998, 65999, 66000, 66001, 66002, 66003, 66004, 66005, 66006, 66007, 66008, 66009, 66010, 66129, 66130, 66131]
+[Sat Jan 14 04:50:11 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 04:50:18 CST 2017]: Model Packing revealed 21 nulled models in your cache.
+[Sat Jan 14 04:50:18 CST 2017]: The nulled models are: [65995, 65996, 65997, 65998, 65999, 66000, 66001, 66002, 66003, 66004, 66005, 66006, 66007, 66008, 66009, 66010, 66129, 66130, 66131, 66132, 66133]
+[Sat Jan 14 04:50:25 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 04:50:33 CST 2017]: Model Packing revealed 19 nulled models in your cache.
+[Sat Jan 14 04:50:33 CST 2017]: The nulled models are: [65995, 65996, 65997, 65998, 65999, 66000, 66001, 66002, 66003, 66004, 66005, 66006, 66007, 66008, 66009, 66010, 66129, 66130, 66131]
+[Sat Jan 14 05:01:36 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:01:49 CST 2017]: Saved NPC: 14688 - Thief
+[Sat Jan 14 05:01:58 CST 2017]: Saved NPC: 14689 - Thief33
+[Sat Jan 14 05:02:08 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:02:17 CST 2017]: Removed NPC: 14689 - Thief33
+[Sat Jan 14 05:02:26 CST 2017]: Saved NPC: 14690 - Thief848
+[Sat Jan 14 05:02:42 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:04:55 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:05:08 CST 2017]: Removed NPC: 14690 - Thief848
+[Sat Jan 14 05:10:51 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:11:15 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:12:12 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:12:32 CST 2017]: Saved Game Object: [64115 - Avatar of Creadk] Options: [Challenge, null, null, null, null], Model IDs: [45474]
+[Sat Jan 14 05:12:41 CST 2017]: Saved Game Object: [64116 - Ava of Cre] Options: [Challenge, null, null, null, null], Model IDs: [45474]
+[Sat Jan 14 05:12:51 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:13:02 CST 2017]: Removed Object: 64116 - Ava of Cre
+[Sat Jan 14 05:13:10 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:14:39 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:14:47 CST 2017]: Removed Object: 64116 - null
+[Sat Jan 14 05:14:52 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:15:02 CST 2017]: Saved Game Object: [64116 - Avatar ofreadk] Options: [Challenge, null, null, null, null], Model IDs: [45474]
+[Sat Jan 14 05:15:08 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:15:15 CST 2017]: Removed Object: 64115 - Avatar of Creadk
+[Sat Jan 14 05:15:22 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:15:36 CST 2017]: Removed Object: 64116 - Avatar ofreadk
+[Sat Jan 14 05:15:39 CST 2017]: Removed Object: 64115 - null
+[Sat Jan 14 05:15:45 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:16:26 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:16:47 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:16:55 CST 2017]: Removed NPC: 14689 - Thief33
+[Sat Jan 14 05:17:00 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:17:15 CST 2017]: Saved NPC: 14689 - Thief393
+[Sat Jan 14 05:17:25 CST 2017]: Removed NPC: 14688 - Thief
+[Sat Jan 14 05:17:32 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:17:40 CST 2017]: Removed NPC: 14689 - Thief393
+[Sat Jan 14 05:17:44 CST 2017]: Removed NPC: 14688 - null
+[Sat Jan 14 05:17:50 CST 2017]: Cloned: 22762 - Demonic shield
+[Sat Jan 14 05:17:54 CST 2017]: Name: jkkod, Item ID: 22762, Inventory Model ID: 66118, Worn Model Id: 66119, Price: 2,500, Inventory Options: null;Wield;Inspect;Empty;drop;, 
+[Sat Jan 14 05:17:59 CST 2017]: Cloned: 22763 - jkkod
+[Sat Jan 14 05:18:02 CST 2017]: Name: i0kn, Item ID: 22763, Inventory Model ID: 66118, Worn Model Id: 66119, Price: 2,500, Inventory Options: null;Wield;Inspect;Empty;drop;, 
+[Sat Jan 14 05:18:07 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:18:20 CST 2017]: Removed Item: 22763 - i0kn
+[Sat Jan 14 05:18:26 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:19:08 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:19:17 CST 2017]: Removed Item: 22763 - null
+[Sat Jan 14 05:19:22 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:19:28 CST 2017]: Cloned: 22763 - jkkod
+[Sat Jan 14 05:19:31 CST 2017]: Name: jnidmd, Item ID: 22763, Inventory Model ID: 66118, Worn Model Id: 66119, Price: 2,500, Inventory Options: null;Wield;Inspect;Empty;drop;, 
+[Sat Jan 14 05:19:38 CST 2017]: Removed Item: 22762 - jkkod
+[Sat Jan 14 05:19:46 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:19:56 CST 2017]: Removed Item: 22762 - null
+[Sat Jan 14 05:20:00 CST 2017]: Removed Item: 22763 - jnidmd
+[Sat Jan 14 05:20:04 CST 2017]: Removed Item: 22762 - null
+[Sat Jan 14 05:20:08 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:31:19 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:33:00 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:34:03 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:34:59 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:37:08 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:38:39 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:39:17 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:39:26 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:40:35 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:42:52 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:56:08 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:57:00 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:58:12 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 05:59:49 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 06:02:19 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 06:04:43 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 06:05:08 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 06:05:54 CST 2017]: Name: Cannon stand, Item ID: 8, Inventory Model ID: 63876, Worn Model Id: -1, Price: 187,500, Inventory Options: null;null;null;null;drop;, 
+[Sat Jan 14 06:20:08 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 06:20:16 CST 2017]: Name: Instruction manual, Item ID: 5, Inventory Model ID: 2794, Worn Model Id: -1, Price: 10, Inventory Options: Read;null;null;null;drop;, 
+[Sat Jan 14 06:20:20 CST 2017]: Name: Instruction manual, Item ID: 5, Inventory Model ID: 2794, Worn Model Id: -1, Price: 10, Inventory Options: Read;null;null;null;drop;, 
+[Sat Jan 14 06:21:14 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 06:21:29 CST 2017]: Name: Cannon base, Item ID: 7, Inventory Model ID: 0, Worn Model Id: -1, Price: 187,500, Inventory Options: null;null;null;null;drop;, 
+[Sat Jan 14 06:21:30 CST 2017]: Name: Cannon base, Item ID: 7, Inventory Model ID: 0, Worn Model Id: -1, Price: 187,500, Inventory Options: null;null;null;null;drop;, 
+[Sat Jan 14 06:22:03 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 06:22:12 CST 2017]: Saved NPC: 6 - Woman
+[Sat Jan 14 06:22:18 CST 2017]: Saved NPC: 6 - Woman
+[Sat Jan 14 06:22:34 CST 2017]: Saved NPC: 6 - Woman
+[Sat Jan 14 06:25:24 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 06:25:33 CST 2017]: Name: Cannon base, Item ID: 6, Inventory Model ID: 63866, Worn Model Id: -1, Price: 187,500, Inventory Options: Set-up;null;null;null;drop;, 
+[Sat Jan 14 06:25:50 CST 2017]: Name: Cannon base, Item ID: 6, Inventory Model ID: 63866, Worn Model Id: -1, Price: 187,500, Inventory Options: Set-up;null;null;null;drop;, 
+[Sat Jan 14 06:25:51 CST 2017]: Name: Cannon base, Item ID: 6, Inventory Model ID: 63866, Worn Model Id: -1, Price: 187,500, Inventory Options: Set-up;null;null;null;drop;, 
+[Sat Jan 14 06:26:30 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 06:26:48 CST 2017]: Name: Modded fire cape, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:26:50 CST 2017]: Name: Modded fire cape, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:26:51 CST 2017]: Name: Modded fire cape, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:26:53 CST 2017]: Name: Modded fire cape, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:26:54 CST 2017]: Name: Modded fire cap, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:26:56 CST 2017]: Name: Modded fire cape, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:32:46 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 06:32:59 CST 2017]: Name: Modded fire cap, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:33:00 CST 2017]: Name: Modded fire cape, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:33:05 CST 2017]: Name: Modded fire cape, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:33:15 CST 2017]: Name: Modded fire cape, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:33:17 CST 2017]: Name: Modded fire cape, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:33:19 CST 2017]: Name: Modded fire cape, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:33:29 CST 2017]: Name: Modded fire cape, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:33:31 CST 2017]: Name: Modded fire cape, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:33:32 CST 2017]: Name: Modded fire cape, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:35:54 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 06:36:07 CST 2017]: Name: Modded fire cap, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:36:10 CST 2017]: Name: Modded fire caeee, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:36:11 CST 2017]: Name: Modded fire cape, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:36:13 CST 2017]: Name: Modded fire capess, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:36:14 CST 2017]: Name: Modded fire cape, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:36:20 CST 2017]: Name: Modded fire cape, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:36:22 CST 2017]: Name: Modded fire cape, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:41:13 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 06:41:24 CST 2017]: Cloned: 22760 - Modded fire cape
+[Sat Jan 14 06:41:33 CST 2017]: Name: Modded fire cape, Item ID: 22760, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:41:34 CST 2017]: Name: Modded fire cape, Item ID: 22760, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:41:36 CST 2017]: Name: Modded fire cape, Item ID: 22760, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:41:58 CST 2017]: Name: Modded fire cape, Item ID: 22757, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:42:01 CST 2017]: Name: Modded fire cape, Item ID: 22760, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:42:03 CST 2017]: Name: Modded fire cape, Item ID: 22760, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:42:04 CST 2017]: Name: Modded fire cape, Item ID: 22760, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:45:04 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 06:45:13 CST 2017]: Saved NPC: 14687 - Toxic Shadow Snake
+[Sat Jan 14 06:45:16 CST 2017]: Saved NPC: 14687 - Toxic Shadow Snak
+[Sat Jan 14 06:45:18 CST 2017]: Saved NPC: 14687 - Toxic Shadow Snake
+[Sat Jan 14 06:45:24 CST 2017]: Saved NPC: 14687 - Toxic Shadow Snake
+[Sat Jan 14 06:45:26 CST 2017]: Saved NPC: 14687 - Toxic Shadow Snake
+[Sat Jan 14 06:45:32 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 06:45:42 CST 2017]: Saved NPC: 14687 - Toxic Shadow Snake
+[Sat Jan 14 06:45:47 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 06:46:02 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 06:46:45 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 06:47:11 CST 2017]: Saved NPC: 4 - Woman
+[Sat Jan 14 06:47:22 CST 2017]: Saved NPC: 4 - Woman
+[Sat Jan 14 06:52:46 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 06:54:23 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 06:54:40 CST 2017]: Name: Modded fire cape, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:54:42 CST 2017]: Name: Modded fire cap, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:54:43 CST 2017]: Name: Modded fire cae, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:54:45 CST 2017]: Name: Modded fire cape, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:54:49 CST 2017]: Name: Modded fire cape, Item ID: 22759, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:56:36 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 06:56:48 CST 2017]: Name: Modded fire cap, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:56:50 CST 2017]: Name: Modded fire cae, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:56:52 CST 2017]: Name: Modded fire cape, Item ID: 22761, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:57:04 CST 2017]: Name: Modded fire ca, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:57:05 CST 2017]: Name: Modded fire cape, Item ID: 22745, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 06:57:16 CST 2017]: Saved NPC: 14687 - Toxic Shadow Snak
+[Sat Jan 14 06:57:18 CST 2017]: Saved NPC: 14687 - Toxic Shadow Snake
+[Sat Jan 14 06:57:27 CST 2017]: Saved Game Object: [64114 - Soul ches] Options: [null, Pick up, null, null, null], Model IDs: [1249]
+[Sat Jan 14 06:57:28 CST 2017]: Saved Game Object: [64114 - Soul chest] Options: [null, Pick up, null, null, null], Model IDs: [1249]
+[Sat Jan 14 06:57:36 CST 2017]: Saved Game Object: [64111 - Barrier (Nex] Options: [Pass, null, null, null, null], Model IDs: [38325]
+[Sat Jan 14 06:57:37 CST 2017]: Saved Game Object: [64111 - Barrier (Nex)] Options: [Pass, null, null, null, null], Model IDs: [38325]
+[Sat Jan 14 15:26:01 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 15:29:51 CST 2017]: Cloned: 22762 - Modded fire cape
+[Sat Jan 14 15:29:56 CST 2017]: Name: Modded fire cape, Item ID: 22762, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 15:30:11 CST 2017]: Cloned: 22763 - Modded fire cape
+[Sat Jan 14 15:30:15 CST 2017]: Name: Modded fire cape, Item ID: 22763, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 15:31:54 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 15:32:03 CST 2017]: Removed Item: 22763 - Modded fire cape
+[Sat Jan 14 15:32:08 CST 2017]: Removed Item: 22762 - Modded fire cape
+[Sat Jan 14 15:32:13 CST 2017]: Removed Item: 22761 - Modded fire cape
+[Sat Jan 14 15:32:18 CST 2017]: Removed Item: 22760 - Modded fire cape
+[Sat Jan 14 16:40:01 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 16:46:23 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 16:46:38 CST 2017]: Saved Game Object: [64114 - Soul chest] Options: [null, Pick up, null, null, null], Model IDs: [1249]
+[Sat Jan 14 16:51:08 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 18:45:19 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 18:45:33 CST 2017]: Removed Item: 22411 - null
+[Sat Jan 14 22:35:28 CST 2017]: Started up the Cache Editor.
+[Sat Jan 14 22:35:43 CST 2017]: Name: Modded fire cape, Item ID: 22758, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 22:36:13 CST 2017]: Name: Modded fire cape, Item ID: 22758, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 
+[Sat Jan 14 22:36:39 CST 2017]: Name: Modded fire cape, Item ID: 22758, Inventory Model ID: 9631, Worn Model Id: 9638, Price: 60,000, Inventory Options: null;Wear;null;null;drop;, 

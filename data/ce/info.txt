@@ -1,0 +1,26 @@
+
+{ IMPORTANT: This is what the model rotations and offsets mean:
+	- modelRotationX = 3D circular spin (positive number = going clockwise in a 3D POV or from neg to pos X-Axis)
+	- modelRotationY = Flat 2D circular spin (positive number = going clockwise)
+	- modelOffsetX = shift in position, left or right (positive number = shifting right)
+	- modelOffsetY = shift in position, up or down (positive number = shifting up)
+	- modelZoom = default 2000, lower is zooming in
+}
+
+
+
+{ ADD PARTICLES TO MODELS: (This is just a basic format)
+
+01 - Number of particles to put on triangles
+026f 0000 - particle ID, triangle ID (You can add more depending on how many particles)
+
+00 - Format for models
+0f - Format for models
+
+0003 0001 - 2 shorts
+000a 0a00 0100 - 3 shorts
+0100 0400 0200 040003 - 4 shorts plus a byte at the end (2 digits is a byte)
+
+0000 ffff - Model header format
+
+}

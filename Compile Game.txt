@@ -1,0 +1,9 @@
+@echo off
+"C:\Program Files (x86)\Java\jdk1.8.0_25\bin\javac.exe" -d out -cp data/libraries/*; -sourcepath src src/org/nova/Main.java
+"C:\Program Files (x86)\Java\jdk1.8.0_25\bin\javac.exe" -d out -cp data/libraries/*; -sourcepath src src/org/nova/game/npc/others/*.java
+"C:\Program Files (x86)\Java\jdk1.8.0_25\bin\javac.exe" -d out -cp data/libraries/*; -sourcepath src src/org/nova/game/npc/combat/impl/*.java
+"C:\Program Files (x86)\Java\jdk1.8.0_25\bin\javac.exe" -d out -cp data/libraries/*; -sourcepath src src/org/nova/kshan/dialogues/impl/*.java
+"C:\Program Files (x86)\Java\jdk1.8.0_25\bin\javac.exe" -d out -cp data/libraries/*; -sourcepath src src/org/nova/kshan/randoms/impl/*.java
+"C:\Program Files (x86)\Java\jdk1.8.0_25\bin\javac.exe" -d out -cp data/libraries/*; -sourcepath src src/org/nova/game/player/controlers/*.java
+"C:\Program Files (x86)\Java\jdk1.8.0_25\bin\javac.exe" -d out -cp data/libraries/*; -sourcepath src src/org/nova/kshan/bot/action/impl/*.java
+pause

@@ -1,0 +1,20 @@
+// Use (Name : chunkX, chunkY, levelRequired, cost, (optional: showRoof, hasDoors))
+Parlour : 232, 639, 1, 1000
+Garden : 232, 633, 1, 1000
+Kitchen : 234, 639, 5, 5000
+Dining room : 236, 639, 10, 5000
+Workshop : 232, 637, 15, 10000
+Bedroom : 238, 639, 20, 10000
+Hall - Skill trophies 1 : 233, 638, 25, 15000
+Hall - Skill trophies 2 : 235, 638, 0, 0
+Games room : 237, 636, 30, 25000
+Combat room : 235, 636, 32, 25000
+Hall - Quest trophies 1 : 237, 638, 35, 25000
+Hall - Quest trophies 2 : 239, 638, 0, 0
+Menagerie : 239, 634, 37, 30000
+Study : 236, 637, 40, 50000
+Costume room : 238, 633, 42, 50000
+Chapel : 234, 637, 45, 50000
+Portal chamber : 233, 636, 50, 100000
+Formal garden : 234, 633, 55, 75000
+Throne room : 238, 637, 60, 150000
